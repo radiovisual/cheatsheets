@@ -22,9 +22,11 @@ git config --global user.name`
 
 See: [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 
+
+
 ###Removing Files & Directories From a Repo
 
-To Remove a file from a commit (and delete it from the filesystem):
+To remove a file from a commit (and delete it from the filesystem):
 ```
 git rm file1.txt
 ```
@@ -40,6 +42,8 @@ git rm -r -f directory/*
 ```
 
 Notes: update your .gitignore if you don't want these files to be added back in.
+
+
 
 ## Nice Resources
 
