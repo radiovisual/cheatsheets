@@ -10,4 +10,8 @@ Browse to the individual cheatsheets:
 - **UNIX** Get to know the most common UNIX commands (coming soon)
 - **Shell** Learn to use Shell commands to increase your productivity (coming soon)
 - **Javascript** Document some of the "trickier" parts of the intermediate-to-advanced side of javascript. (coming soon)
+- **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
+
+##In-Depth Study
+
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
