@@ -11,3 +11,7 @@
 ###Animation
 
 * [Velocity.js](http://julian.com/research/velocity/)
+
+###NPM Modules in the Browser
+
+* [Browserify](https://github.com/substack/node-browserify)
