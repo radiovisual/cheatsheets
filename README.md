@@ -12,6 +12,6 @@ Browse to the individual cheatsheets:
 - **Javascript** Document some of the "trickier" parts of the intermediate-to-advanced side of javascript. (coming soon)
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
 
-##In-Depth Study
+###In-Depth Study
 
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
