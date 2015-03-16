@@ -2,7 +2,7 @@
 
 A collection of developer-driven cheatsheets for quick reference. For now these cheatsheets are presented as Markdown files, but eventually these cheatsheets will be turned into an interactive web resource.
 
-Note: These cheetsheets are just getting started and are wildly incomplete, but will be updated overtime. For now, they are mainly here for my reference, but anyone is welcome to benefit, or contribute.
+Note: These cheetsheets are just getting started and are wildly incomplete, but will be updated over time. For now, they are mainly here for my personal reference, but anyone is welcome to benefit, or contribute while these cheatsheets grow to something useful for the development community.
 
 Browse to the individual cheatsheets:
 
