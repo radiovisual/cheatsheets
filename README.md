@@ -11,6 +11,7 @@ Browse to the individual cheatsheets:
 - **Shell** Learn to use Shell commands to increase your productivity (coming soon)
 - **Javascript** Document some of the "trickier" parts of the intermediate-to-advanced side of javascript. (coming soon)
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
+- **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)**
 
 ###In-Depth Study
 
