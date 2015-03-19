@@ -15,3 +15,7 @@
 ###NPM Modules in the Browser
 
 * [Browserify](https://github.com/substack/node-browserify)
+
+###Reactive Programming
+
+* [React.js](http://facebook.github.io/react/)
