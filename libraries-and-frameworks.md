@@ -25,3 +25,8 @@
 ###Project Generators
 
 * [generator-iojs](https://github.com/joeybaker/generator-iojs)
+
+###Continuous Integration
+
+* [Travis](https://travis-ci.org/)
+* [First Steps in Setting up TravisTravis](http://orizens.com/wp/topics/first-steps-in-setting-up-travis-ci-to-your-javascript-project/)
