@@ -7,3 +7,7 @@
 ###Managing Dependency Collisions
 
 - [Managing Node.js Dependencies with Shrinkwrap](http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/)
+
+###Learning node.js
+
+- [NodeSchool](http://nodeschool.io/)
