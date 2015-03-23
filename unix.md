@@ -1,9 +1,9 @@
 #UNIX cheatsheet
-###Coming soon
 
-For now, you can reference:
+###Learning Unix
 
 - [Cyberwizard Institute Unix](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
+- [Become a Unix Wizard](https://github.com/substack/unix-adventure)
 
 ###The Unix Philosophy
 
