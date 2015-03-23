@@ -17,6 +17,8 @@
 ###NPM Modules in the Browser
 
 * [Browserify](https://github.com/substack/node-browserify)
+    * [Browserify handbook](https://github.com/substack/browserify-handbook)
+    * [Browserify Adventure](https://github.com/substack/browserify-adventure)
 
 ###Reactive Programming
 
@@ -30,4 +32,5 @@
 
 * [Travis](https://travis-ci.org/)
 * [First Steps in Setting up Travis](http://orizens.com/wp/topics/first-steps-in-setting-up-travis-ci-to-your-javascript-project/)
+
 
