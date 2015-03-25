@@ -47,17 +47,17 @@ Notes: update your .gitignore if you don't want these files to be added back in.
 ### Make Your Fork Track the Original Upstream Repo ([source](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/))
 
 This step isn't absolutely necessary, but I find it **very useful** if you plan on working on this project for anything more than a very quick fix. Use the following commands to add the 'upsteam' (original project location) as a remote branch so that you can get their updates into your branch. Replace the 'upstreamname' and 'projectname' values with that actual user/project name that you're trying to track.
-'''
+```
 git remote add --track master upstream git://github.com/upstreamname/projectname.git
-'''
+```
 This will add the original project as a remote named 'upstream'. To get the code, type:
-'''
+```
 git fetch upstream
-'''
+```
 Then, to merge it into your own project, type:
-'''
+```
 git merge upstream/master
-'''
+```
 Tada! Now you'll have an up-to-date version of the upstream code in your current branch.
 
 ### Comparing the difference between files across commits
