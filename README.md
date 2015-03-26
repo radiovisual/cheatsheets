@@ -9,7 +9,7 @@ Browse to the individual cheatsheets:
 - **[Git](https://github.com/radiovisual/cheatsheets/blob/master/git.md)** Quick guide to the most common use cases in Git
 - **[UNIX](https://github.com/radiovisual/cheatsheets/blob/master/unix.md)** Get to know the most common UNIX commands
 - **Shell** Learn to use Shell commands to increase your productivity (coming soon)
-- **Javascript** Document some of the "trickier" parts of the intermediate-to-advanced side of javascript. (coming soon)
+- **[Javascript](https://github.com/radiovisual/cheatsheets/blob/master/javascript.md)** Document some tips and tricks to handle "advanced" javascript.
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
 - **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)**
 

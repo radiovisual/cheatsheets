@@ -23,7 +23,6 @@ git config --global user.name`
 See: [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 
 
-
 ### Removing Files & Directories From a Repo
 
 To remove a file from a commit (and delete it from the filesystem):
@@ -59,6 +58,7 @@ Then, to merge it into your own project, type:
 git merge upstream/master
 ```
 Tada! Now you'll have an up-to-date version of the upstream code in your current branch.
+
 
 ### Comparing the difference between files across commits
 
