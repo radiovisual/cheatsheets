@@ -15,4 +15,5 @@
 ##Blogs to Follow
 
 - [substack.net](http://substack.net/)
+- [davidwalsh.name](http://davidwalsh.name/)
 
