@@ -12,6 +12,7 @@ Browse to the individual cheatsheets:
 - **[Javascript](https://github.com/radiovisual/cheatsheets/blob/master/javascript.md)** Document some tips and tricks to handle "advanced" javascript.
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
 - **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)**
+- **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the swift language for iOS development.
 
 ###In-Depth Study
 
