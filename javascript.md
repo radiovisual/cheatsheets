@@ -11,6 +11,7 @@
 - [JS.Next: ES6](https://frontendmasters.com/courses/jsnext-es6/)
 - [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/)
 - [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/)
+- [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 
 ##Blogs to Follow
 
