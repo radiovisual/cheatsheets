@@ -13,6 +13,7 @@ Browse to the individual cheatsheets:
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
 - **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)**
 - **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the swift language for iOS development.
+- **[npm](https://github.com/radiovisual/cheatsheets/blob/master/npm.md)** Explore the commonly-used tasks in npm
 
 ###In-Depth Study
 
