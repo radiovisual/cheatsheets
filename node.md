@@ -11,3 +11,7 @@
 ###Learning node.js
 
 - [NodeSchool](http://nodeschool.io/)
+
+###Debugging node
+
+- [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
