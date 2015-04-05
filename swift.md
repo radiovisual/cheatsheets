@@ -6,3 +6,5 @@
 - [Using Swift with Cocoa and Objective-C](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/BuildingCocoaApps/index.html#//apple_ref/doc/uid/TP40014216)
 - [Functional Programming in Swift](http://www.objc.io/books/)
 - [Functional Programming in Swift Video](https://realm.io/news/functional-programming-swift-chris-eidhof/)
+
+- [Swift Series](http://www.raywenderlich.com/video-tutorials)
