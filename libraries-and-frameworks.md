@@ -33,4 +33,6 @@
 * [Travis](https://travis-ci.org/)
     * [First Steps in Setting up Travis](http://orizens.com/wp/topics/first-steps-in-setting-up-travis-ci-to-your-javascript-project/)
 
+###Templating
 
+* [React Templates](http://wix.github.io/react-templates/)
