@@ -10,9 +10,10 @@
 * [Karma](http://karma-runner.github.io/0.12/index.html)
 * [prova](https://github.com/azer/prova)
 
-###Animation
+###Animation & Games
 
 * [Velocity.js](http://julian.com/research/velocity/)
+* [playground.js](http://playgroundjs.com/)
 
 ###NPM Modules in the Browser
 
