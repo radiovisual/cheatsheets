@@ -1,8 +1,9 @@
 #React Cheatsheet
 
-###Tips
+###Tips & Best Practices
 
 * [Two React Tips](https://medium.com/@dan_abramov/two-weird-tricks-that-fix-react-7cf9bbdef375)
+* [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 
 ###Learning React
 
