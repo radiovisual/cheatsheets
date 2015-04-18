@@ -15,3 +15,7 @@
 ###Debugging node
 
 - [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
+
+###Testing Node
+
+- [Node.js Testing Strategies](http://www.pluralsight.com/courses/nodejs-testing-strategies)
