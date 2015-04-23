@@ -19,3 +19,7 @@
 ###Testing Node
 
 - [Node.js Testing Strategies](http://www.pluralsight.com/courses/nodejs-testing-strategies)
+
+###Shell scripts in Node
+
+- [Write your shell scripts in JavaScript, via Node.js](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
