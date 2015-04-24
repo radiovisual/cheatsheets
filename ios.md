@@ -34,3 +34,14 @@ Using `NSDictionaryOfVariableBindings` gives you the same result
                                                            self.notificationsSub,
                                                            self.notificationsUnderline);
 ```
+
+
+### UITableViewCell
+
+Use a color other than the supplied defaults to style the 'selected' style:
+
+```obj-c
+UIView *selectionView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, cell.frame.size.width, cell.frame.size.height - 1)];
+selectionView.backgroundColor = [UIColor redColor];
+cell.selectedBackgroundView = selectionView;
+```
