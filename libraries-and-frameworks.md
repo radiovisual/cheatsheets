@@ -41,3 +41,11 @@
 ###WebGL & 3D
 
 - [three.js](http://threejs.org/)
+
+###Charting
+
+- [charted.io](http://www.charted.co/)
+
+###NoSQL Databases
+
+- [RethinkDB](http://www.rethinkdb.com/)
