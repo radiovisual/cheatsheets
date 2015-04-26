@@ -23,6 +23,8 @@ Explicit Version:
        @"notificationsSub":self.notificationsSub,
        @"notificationsUnderline":self.notificationsUnderline
     };
+
+    self.viewsDictionary[@"friendsButton"] => self.friendsButton
 ```
 
 Using `NSDictionaryOfVariableBindings` gives you the same result as above, where the result is a dictionary where the keys are generated automatically from the object variable names (self.foo => @"foo"). This allows for a cleaner and easier-to-update syntax.
@@ -35,6 +37,8 @@ Using `NSDictionaryOfVariableBindings` gives you the same result as above, where
         self.notificationsSub,
         self.notificationsUnderline
     );
+
+    self.viewsDictionary[@"friendsButton"] => self.friendsButton
 ```
 
 
