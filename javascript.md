@@ -38,6 +38,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [substack.net](http://substack.net/)
 - [davidwalsh.name](http://davidwalsh.name/)
 - [javascriptissexy.com](http://javascriptissexy.com/)
+- [②ality – JavaScript and more](http://www.2ality.com/2015/03/es6-generators.html)
+- [RisingStack Engineering](http://blog.risingstack.com/)
 
 ##Noteworthy Articles
 
