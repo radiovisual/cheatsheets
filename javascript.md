@@ -40,6 +40,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [javascriptissexy.com](http://javascriptissexy.com/)
 - [②ality – JavaScript and more](http://www.2ality.com/2015/03/es6-generators.html)
 - [RisingStack Engineering](http://blog.risingstack.com/)
+- [Eric Elliot : Medium](https://medium.com/@_ericelliott)
+- [http://ericleads.com/](http://ericleads.com/)
 
 ##Noteworthy Articles
 
@@ -48,3 +50,6 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
 - [Beautiful JavaScript: Easily Create Chainable (Cascading) Methods for Expressiveness](http://javascriptissexy.com/beautiful-javascript-easily-create-chainable-cascading-methods-for-expressiveness/)
 - [JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
+- [How to Use ES6 for Isomorphic JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
+- [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
+- [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)

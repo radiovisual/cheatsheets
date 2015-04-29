@@ -58,3 +58,12 @@ UIView *selectionView = [[UIView alloc] initWithFrame:CGRectMake(0, 0, self.fram
 selectionView.backgroundColor = [UIColor redColor];
 self.selectedBackgroundView = selectionView;
 ```
+
+### UITableView
+
+Create an offset on the bottom of the tableView so that the bottom-most item rests higher than the default. Creating
+a fixed amount of space below the table view.
+```obj-c
+// will raise the tableview up by 50 pixels
+// [self.tableView setContentInset:UIEdgeInsetsMake(0,0,50,0)];
+```
