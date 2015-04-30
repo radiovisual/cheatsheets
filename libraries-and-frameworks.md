@@ -41,6 +41,12 @@
 ###WebGL & 3D
 
 - [three.js](http://threejs.org/)
+- [goocreate](http://www.goocreate.com/)
+
+###Physics Engines
+
+- [Cannon.js](http://schteppe.github.io/cannon.js/)
+- [p2.js](https://schteppe.github.io/p2.js/)
 
 ###Charting
 
