@@ -43,6 +43,10 @@
 - [three.js](http://threejs.org/)
 - [goocreate](http://www.goocreate.com/)
 
+###Inspirational WebGL
+
+- [inconvergent.net](http://inconvergent.net/)
+
 ###Physics Engines
 
 - [Cannon.js](http://schteppe.github.io/cannon.js/)
