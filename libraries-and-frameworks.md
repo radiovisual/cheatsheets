@@ -24,6 +24,7 @@
 ###Reactive Programming
 
 * [React.js](http://facebook.github.io/react/)
+* [RxJS](https://github.com/Reactive-Extensions/RxJS)
 
 ###Project Generators
 
@@ -46,6 +47,7 @@
 ###Inspirational WebGL
 
 - [inconvergent.net](http://inconvergent.net/)
+- [Chrome experiments](https://www.chromeexperiments.com/)
 
 ###Physics Engines
 
