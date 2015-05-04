@@ -61,3 +61,7 @@
 ###NoSQL Databases
 
 - [RethinkDB](http://www.rethinkdb.com/)
+
+###Chrome Console
+
+- [Chrome's Console Greatest Hits](http://www.mitchrobb.com/chromes-console-api-greatest-hits/)
