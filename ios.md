@@ -67,3 +67,13 @@ a fixed amount of space below the table view.
 // will raise the tableview up by 50 pixels
 // [self.tableView setContentInset:UIEdgeInsetsMake(0,0,50,0)];
 ```
+
+### Bundle Info
+
+Get the bundle version number:
+
+```obj-c
+[[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleShortVersionString"]
+// or
+[[NSBundle mainBundle] objectForInfoDictionaryKey:@"CFBundleShortVersionString"];
+```
