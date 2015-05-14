@@ -85,3 +85,10 @@ buildNumber=$(/usr/libexec/PlistBuddy -c "Print CFBundleVersion" "${PROJECT_DIR}
 buildNumber=$(($buildNumber + 1))
 /usr/libexec/PlistBuddy -c "Set :CFBundleVersion $buildNumber" "${PROJECT_DIR}/${INFOPLIST_FILE}"
 ```
+
+### Find a specific UIView
+
+```obj-c
+// Locate a specific UIView by querying for its tag
+UIView *groupBtn = [self.groupsScrollContainerView viewWithTag:index];
+```
