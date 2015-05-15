@@ -92,3 +92,18 @@ buildNumber=$(($buildNumber + 1))
 // Locate a specific UIView by querying for its tag
 UIView *groupBtn = [self.groupsScrollContainerView viewWithTag:index];
 ```
+
+### Sort an NSArray
+
+```obj-c
+// This will sort an NSArray of Strings
+sortedArray = [anArray sortedArrayUsingSelector:@selector(localizedCaseInsensitiveCompare:)];
+
+// This will sort an NSArray of objects (using the "name" property in this example)
+NSSortDescriptor *sort = [NSSortDescriptor sortDescriptorWithKey:@"name" ascending:YES];
+sortedArray = [anArray sortedArrayUsingDescriptors:@[sort]];
+
+// Or for a case-insensitive compare:
+NSSortDescriptor *sort = [NSSortDescriptor sortDescriptorWithKey:@"name" ascending:YES selector:@selector(caseInsensitiveCompare:)];
+sortedArray = [anArray sortedArrayUsingDescriptors:@[sort]];
+```
