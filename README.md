@@ -10,8 +10,8 @@ Browse to the individual cheatsheets:
 - **[UNIX](https://github.com/radiovisual/cheatsheets/blob/master/unix.md)** Get to know the most common UNIX commands
 - **[Shell](https://github.com/radiovisual/cheatsheets/blob/master/shell.md)** Learn to use Shell commands to increase your productivity
 - **[Javascript](https://github.com/radiovisual/cheatsheets/blob/master/javascript.md)** Document some tips and tricks to handle "advanced" javascript.
-- **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)**
-- **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)**
+- **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)** Learn common practices in node
+- **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)** Popular libraries and frameworks
 - **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the swift language for iOS development.
 - **[React](https://github.com/radiovisual/cheatsheets/blob/master/react.md)** Explore the react.js framework
 - **[React Native](https://github.com/radiovisual/cheatsheets/blob/master/react-native.md)** Explore the react-native framework
