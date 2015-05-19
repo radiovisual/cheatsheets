@@ -107,3 +107,12 @@ sortedArray = [anArray sortedArrayUsingDescriptors:@[sort]];
 NSSortDescriptor *sort = [NSSortDescriptor sortDescriptorWithKey:@"name" ascending:YES selector:@selector(caseInsensitiveCompare:)];
 sortedArray = [anArray sortedArrayUsingDescriptors:@[sort]];
 ```
+
+### Call any method in your App Delegate
+
+```obj-c
+// this will let you call the `someMethod` method from your
+// App Delegate anywhere in any View Controller
+PA_AppDelegate *appDelegate = [[UIApplication sharedApplication] delegate];
+[appDelegate someMethod];
+```
