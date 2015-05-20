@@ -116,3 +116,13 @@ sortedArray = [anArray sortedArrayUsingDescriptors:@[sort]];
 PA_AppDelegate *appDelegate = [[UIApplication sharedApplication] delegate];
 [appDelegate someMethod];
 ```
+
+### Convert a JSON String into an NSDictionary
+
+```obj-c
+NSError *jsonError;
+        NSData *objectData = [@"{\"2\":\"3\"}" dataUsingEncoding:NSUTF8StringEncoding];
+        NSDictionary *json = [NSJSONSerialization JSONObjectWithData:objectData
+                                                             options:NSJSONReadingMutableContainers
+                                                               error:&jsonError];
+```
