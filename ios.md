@@ -126,3 +126,9 @@ NSError *jsonError;
                                                              options:NSJSONReadingMutableContainers
                                                                error:&jsonError];
 ```
+
+### Find the location where your app icon masks are saved
+
+```
+ $ find /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs -name 'MobileIcons.framework'
+```

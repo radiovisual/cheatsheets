@@ -23,3 +23,13 @@
 ###Shell scripts in Node
 
 - [Write your shell scripts in JavaScript, via Node.js](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
+
+To make a javascript file executable, run this command to change its permissions:
+```
+$ chmod u+x myscript.js
+```
+And make sure you have the proper shebang in your javascript file:
+
+```js
+#!/usr/bin/env node
+```
