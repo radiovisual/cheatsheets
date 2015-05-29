@@ -28,8 +28,12 @@ To make a javascript file executable, run this command to change its permissions
 ```
 $ chmod u+x myscript.js
 ```
-And make sure you have the proper shebang in your javascript file:
+And make sure you have the proper shebang in your javascript file (myscript.js):
 
 ```js
 #!/usr/bin/env node
 ```
+
+###Node CLI
+
+- [minimist](https://github.com/substack/minimist)
