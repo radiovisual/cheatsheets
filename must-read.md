@@ -9,3 +9,4 @@
 - [ ] [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](http://smile.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/)
 
 - [ ] [Web Fundamentals: Best practices for great multi-device web experiences](https://developers.google.com/web/fundamentals/?hl=en)
+- [ ] [stream-handbook](https://github.com/substack/stream-handbook)
