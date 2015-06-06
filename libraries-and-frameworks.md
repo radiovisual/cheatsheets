@@ -14,6 +14,10 @@
 
 * [Velocity.js](http://julian.com/research/velocity/)
 * [playground.js](http://playgroundjs.com/)
+* [CreateJS](http://www.createjs.com/)
+* [pixijs](http://www.pixijs.com/)
+* [greensock](https://greensock.com/)
+
 
 ###NPM Modules in the Browser
 
@@ -44,10 +48,13 @@
 - [three.js](http://threejs.org/)
 - [goocreate](http://www.goocreate.com/)
 
-###Inspirational WebGL
+###Inspirational WebGL & Interactive
 
 - [inconvergent.net](http://inconvergent.net/)
 - [Chrome experiments](https://www.chromeexperiments.com/)
+- [kitasenjudesign](http://kitasenjudesign.com/)
+- [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/)
+- [grgrdvrt](http://grgrdvrt.com/)
 
 ###Physics Engines
 
