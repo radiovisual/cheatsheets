@@ -47,6 +47,7 @@
 
 - [three.js](http://threejs.org/)
 - [goocreate](http://www.goocreate.com/)
+- [PolyK](http://polyk.ivank.net/)
 
 ###Inspirational WebGL & Interactive
 
@@ -55,6 +56,7 @@
 - [kitasenjudesign](http://kitasenjudesign.com/)
 - [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/)
 - [grgrdvrt](http://grgrdvrt.com/)
+- [Tangent Spaces](http://tangentspaces.co.uk/)
 
 ###Physics Engines
 
@@ -77,4 +79,8 @@
 ###Polyfill Service
 
 - [cdn.polyfill.io](https://cdn.polyfill.io/v1/docs/)
+
+### Shaders
+
+- [https://www.shadertoy.com/](https://www.shadertoy.com/)
 

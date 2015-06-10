@@ -82,4 +82,13 @@ var hex = (16733683).toString(16);
 // "ff55f3"
 ```
 
+### Extract color composites from HEX color value
+
+```js
+var color = parseInt('ff0000', 16); // red color (16711680)
+
+var red = color >> 16 & 0xff; // 255
+var green = color >> 8 & 0xff; // 0
+var blue = color & 0xff; // 0
+```
 
