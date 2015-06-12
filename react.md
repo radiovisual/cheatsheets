@@ -13,5 +13,5 @@
 * [Reach and Flux for Total Beginners](http://prestonparry.com/articles/ReactCurriculum/)
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
-
+* [Learn JavaScript Isomorphic App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
 
