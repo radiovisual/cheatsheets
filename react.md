@@ -14,4 +14,5 @@
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
 * [React: CSS in JS](https://speakerdeck.com/vjeux/react-css-in-js)
 * [Learn JavaScript Isomorphic App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
+* [The React.js Way: Flux Architecture with Immutable.js](http://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
 
