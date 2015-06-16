@@ -84,3 +84,7 @@
 
 - [https://www.shadertoy.com/](https://www.shadertoy.com/)
 
+### DevTools & Javascript Performance
+
+- [Advanced Performance Audits With DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
+
