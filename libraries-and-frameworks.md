@@ -17,7 +17,7 @@
 * [CreateJS](http://www.createjs.com/)
 * [pixijs](http://www.pixijs.com/)
 * [greensock](https://greensock.com/)
-
+* [High Performance Animations [for the web]](http://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
 
 ###NPM Modules in the Browser
 

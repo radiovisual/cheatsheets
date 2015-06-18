@@ -17,8 +17,15 @@ Browse to the individual cheatsheets:
 - **[React Native](https://github.com/radiovisual/cheatsheets/blob/master/react-native.md)** Explore the react-native framework
 - **[iOS Development](https://github.com/radiovisual/cheatsheets/blob/master/ios.md)** Explore the wonders of iOS / Mac OS development
 - **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques.
-- **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js) Named keycode mappings for the javascript keycodes
+- **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js)** Named keycode mappings for the javascript keycodes
 
 ###In-Depth Study
 
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
+
+
+###Blogs to Follow
+
+- [HTML5 Rocks](http://www.html5rocks.com/en/)
+- [paulirish.com](http://www.paulirish.com/)
+- [joshnh.com/](http://joshnh.com/)
