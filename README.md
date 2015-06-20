@@ -29,3 +29,4 @@ Browse to the individual cheatsheets:
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [paulirish.com](http://www.paulirish.com/)
 - [joshnh.com/](http://joshnh.com/)
+- [getify.com](http://blog.getify.com/)
