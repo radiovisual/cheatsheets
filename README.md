@@ -28,5 +28,8 @@ Browse to the individual cheatsheets:
 
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [paulirish.com](http://www.paulirish.com/)
-- [joshnh.com/](http://joshnh.com/)
+- [joshnh.comericleads](http://joshnh.com/)
 - [getify.com](http://blog.getify.com/)
+- [christianalfoni.com](http://www.christianalfoni.com/)
+- [ericleads.com](http://ericleads.com/)
+- [medium.com/@_ericelliott](https://medium.com/@_ericelliott)
