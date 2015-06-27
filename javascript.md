@@ -1,5 +1,11 @@
 #Javascript Cheatsheet
 
+
+## Standards
+
+- [ECMA-262 6th Edition (ES6)](http://www.ecma-international.org/ecma-262/6.0/)
+
+
 ##Javascript Anti-Patterns
 
 Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#antipatterns)
@@ -55,3 +61,4 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 - [Fluent JavaScript – Three Different Kinds Of Prototypal OO](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
+- [Polymorphism That Just Works](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
