@@ -17,6 +17,9 @@
 * [The React.js Way: Flux Architecture with Immutable.js](http://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
 * [JSX Looks Like An Abomination - But it’s Good for You](https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918)
 * [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd)
+* [General Theory of Reactivity](https://github.com/kriskowal/gtor)
+* [The Introduction to Reactive You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+* [Presenting The Most Over-Engineered Blog Ever](http://jlongster.com/Presenting-The-Most-Over-Engineered-Blog-Ever)
 
 ###React Components
 

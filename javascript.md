@@ -38,6 +38,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 ##Video
 
 - [Douglas Crockford "Advanced Javascript"](http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/)
+- [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
+- [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 
 ##Blogs to Follow
 
