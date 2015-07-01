@@ -64,3 +64,4 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 - [Fluent JavaScript – Three Different Kinds Of Prototypal OO](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
 - [Polymorphism That Just Works](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
+- [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)

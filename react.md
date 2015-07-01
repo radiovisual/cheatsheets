@@ -21,6 +21,10 @@
 * [The Introduction to Reactive You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Presenting The Most Over-Engineered Blog Ever](http://jlongster.com/Presenting-The-Most-Over-Engineered-Blog-Ever)
 
+###Books
+
+* [Learn JavaScript Universal App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
+
 ###React Components
 
 * [react.parts/web](https://react.parts/web)

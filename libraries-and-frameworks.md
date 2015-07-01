@@ -80,20 +80,26 @@
 
 - [cdn.polyfill.io](https://cdn.polyfill.io/v1/docs/)
 
-### Shaders
+###Shaders
 
 - [https://www.shadertoy.com/](https://www.shadertoy.com/)
 
-### DevTools & Javascript Performance
+###DevTools & Javascript Performance
 
 - [Advanced Performance Audits With DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
 
-### JS CMS
+###JS CMS
 
 - [KeystoneJS](http://keystonejs.com/)
 - [Ghost Blogging CMS](https://ghost.org/)
 
-### Arduino
+###Arduino
 
 - [Johnny Five](http://johnny-five.io/)
+
+###CLI Color
+
+- [clor](https://github.com/bucaran/clor)
+
+
 
