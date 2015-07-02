@@ -37,3 +37,7 @@ And make sure you have the proper shebang in your javascript file (myscript.js):
 ###Node CLI
 
 - [minimist](https://github.com/substack/minimist)
+
+###Node Security
+
+- [Secure Node Apps Against OWASP Top 10](http://scottksmith.com/blog/2015/06/08/secure-node-apps-against-owasp-top-10-injection/)
