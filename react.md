@@ -20,6 +20,8 @@
 * [General Theory of Reactivity](https://github.com/kriskowal/gtor)
 * [The Introduction to Reactive You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Presenting The Most Over-Engineered Blog Ever](http://jlongster.com/Presenting-The-Most-Over-Engineered-Blog-Ever)
+* [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
+
 
 ###Books
 

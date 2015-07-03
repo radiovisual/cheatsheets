@@ -34,7 +34,10 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [Syllabus for the Advanced JavaScript class at NYU](https://github.com/advanced-js/syllabus)
 - [Advanced Javascript Slides by John Resig](http://ejohn.org/apps/learn/)
+- [How to Use ES6 for
+   Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 
+   
 ##Video
 
 - [Douglas Crockford "Advanced Javascript"](http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/)
@@ -65,3 +68,9 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Fluent JavaScript – Three Different Kinds Of Prototypal OO](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
 - [Polymorphism That Just Works](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
 - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+
+
+###General Syntax
+
+**BAD:** var options = options || {};
+**GOOD:** [defaults/overrides pattern](https://gist.github.com/ericelliott/f3c2a53a1d4100539f71)
