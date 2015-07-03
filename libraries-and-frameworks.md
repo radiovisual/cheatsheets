@@ -101,5 +101,7 @@
 
 - [clor](https://github.com/bucaran/clor)
 
+###Text Editors
 
+- [atom.io/](https://atom.io/)
 

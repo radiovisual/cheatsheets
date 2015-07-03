@@ -21,7 +21,7 @@
 * [The Introduction to Reactive You've Been Missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
 * [Presenting The Most Over-Engineered Blog Ever](http://jlongster.com/Presenting-The-Most-Over-Engineered-Blog-Ever)
 * [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
-
+* [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 
 ###Books
 

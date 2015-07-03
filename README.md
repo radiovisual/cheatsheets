@@ -34,3 +34,5 @@ Browse to the individual cheatsheets:
 - [christianalfoni.com](http://www.christianalfoni.com/)
 - [ericleads.com](http://ericleads.com/)
 - [medium.com/@_ericelliott](https://medium.com/@_ericelliott)
+- [blog.lum.pe/](http://blog.lum.pe/)
+- [brentvatne.ca/](http://brentvatne.ca/)
