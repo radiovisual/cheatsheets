@@ -41,3 +41,13 @@ And make sure you have the proper shebang in your javascript file (myscript.js):
 ###Node Security
 
 - [Secure Node Apps Against OWASP Top 10](http://scottksmith.com/blog/2015/06/08/secure-node-apps-against-owasp-top-10-injection/)
+
+###Run ES6 in node
+
+To run ES6 code in Node.js:
+
+1. Make sure babel is installed
+`$ npm install -g babel`
+
+2. Now you can run "babel-node" instead of "node"
+`$ babel-node file-with-es6-js.js`

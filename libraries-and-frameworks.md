@@ -104,4 +104,5 @@
 ###Text Editors
 
 - [atom.io/](https://atom.io/)
+- [nuclide.io/](http://nuclide.io/)
 
