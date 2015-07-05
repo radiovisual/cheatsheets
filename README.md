@@ -27,6 +27,7 @@ Browse to the individual cheatsheets:
 
 ###Blogs to Follow
 
+- [2ality.com/](http://www.2ality.com/)
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [paulirish.com](http://www.paulirish.com/)
 - [joshnh.comericleads](http://joshnh.com/)
