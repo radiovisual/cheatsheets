@@ -68,7 +68,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Fluent JavaScript – Three Different Kinds Of Prototypal OO](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
 - [Polymorphism That Just Works](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
 - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-
+- [Anonymous Functions, Assigned To References, Show Up Well In JavaScript Stack Traces](http://www.bennadel.com/blog/2836-anonymous-functions-assigned-to-references-show-up-well-in-javascript-stack-traces.htm?&_=0.32385098887607455)
 
 ###General Syntax
 
