@@ -25,7 +25,7 @@ Browse to the individual cheatsheets:
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
 
 
-###Blogs to Follow
+###Blogs to Follow (Javascript)
 
 - [2ality.com/](http://www.2ality.com/)
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
@@ -37,3 +37,4 @@ Browse to the individual cheatsheets:
 - [medium.com/@_ericelliott](https://medium.com/@_ericelliott)
 - [blog.lum.pe/](http://blog.lum.pe/)
 - [brentvatne.ca/](http://brentvatne.ca/)
+- [dailyjs.com](http://dailyjs.com/)
