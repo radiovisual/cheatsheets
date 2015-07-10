@@ -27,3 +27,7 @@
 ###Best Practices
 
 - [ ] [Web Fundamentals: Best practices for great multi-device web experiences](https://developers.google.com/web/fundamentals/?hl=en)
+
+###Character Sets
+
+- [ ] [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets](http://www.joelonsoftware.com/articles/Unicode.html)

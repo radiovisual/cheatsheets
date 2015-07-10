@@ -19,6 +19,7 @@ Browse to the individual cheatsheets:
 - **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques.
 - **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js)** Named keycode mappings for the javascript keycodes
 - **[Unreal Engine](https://github.com/radiovisual/cheatsheets/blob/master/unrealengine.md)** Unreal Engine Development & Inspiration
+- **[Art](https://github.com/radiovisual/cheatsheets/blob/master/art.md) Various design & art inspiration
 
 ###In-Depth Study
 
