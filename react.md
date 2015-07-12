@@ -23,6 +23,9 @@
 * [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom)
 * [React Native Meets Async Functions](https://medium.com/the-exponent-log/react-native-meets-async-functions-3e6f81111173)
 * [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html)
+* [React Demos](https://github.com/ruanyf/react-demos)
+* [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
+* [Ramda](https://github.com/ramda/ramda)
 
 ###Books
 

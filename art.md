@@ -12,6 +12,9 @@ This cheatsheet isn't so much about development as it is about inspiration. Fron
 - [Fool (Yuriy Gusev) PixelJoint](www.pixeljoint.com/p/6741.htm)
 - [Henk Nieborg](http://www.henknieborg.nl/)
 - [Pixels Huh (Octavi Navarro)](http://www.pixelshuh.com/365821/-home-)
+- [Waneella](http://waneella.tumblr.com/)
+- [Eboy](http://hello.eboy.com/eboy/)
+- [Chern Fai](http://pixosprout.tumblr.com/)
 
 ###Tutorials
 

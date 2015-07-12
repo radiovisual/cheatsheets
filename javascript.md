@@ -53,6 +53,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [RisingStack Engineering](http://blog.risingstack.com/)
 - [Eric Elliot : Medium](https://medium.com/@_ericelliott)
 - [http://ericleads.com/](http://ericleads.com/)
+- [buzzdecafe.github.io/](http://buzzdecafe.github.io/)
 
 ##Noteworthy Articles
 
@@ -78,3 +79,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 ###Style Guides
 
 - [AirBNB JS Styleguide](https://github.com/airbnb/javascript)
+
+###Noteworthy JS Libraries
+
+- [Ramda - Practical functional Javascript](https://github.com/ramda/ramda)
+
