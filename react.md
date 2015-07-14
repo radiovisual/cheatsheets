@@ -36,3 +36,7 @@
 * [react.parts/web](https://react.parts/web)
 * [react.rocks](http://react.rocks/)
 * [react-components.com](http://react-components.com/)
+
+###General React Articles
+
+- [60 FPS on the Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web/)
