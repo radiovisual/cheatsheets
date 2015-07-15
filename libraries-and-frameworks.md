@@ -112,3 +112,4 @@
 
 - [wagerfield/parallax](http://matthew.wagerfield.com/parallax/) For device-orientation and cursor-position parallax
 - [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) For desktop/mobile website parallax
+- [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js/) Super simple parallax
