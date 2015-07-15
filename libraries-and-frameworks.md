@@ -108,3 +108,7 @@
 - [atom.io/](https://atom.io/)
 - [nuclide.io/](http://nuclide.io/)
 
+###Parallax
+
+- [wagerfield/parallax](http://matthew.wagerfield.com/parallax/) For device-orientation and cursor-position parallax
+- [Prinzhorn/skrollr](https://github.com/Prinzhorn/skrollr) For desktop/mobile website parallax
