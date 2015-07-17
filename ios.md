@@ -1,5 +1,10 @@
 #iOS Development
 
+
+###Crash Reports
+
+- [Understanding and Analyzing iOS Application Crash Reports](https://developer.apple.com/library/ios/technotes/tn2151/_index.html)
+
 ###Building Universal Apps
 
 - [Building a Universal App](http://themainthread.com/blog/2014/02/building-a-universal-app.html)
