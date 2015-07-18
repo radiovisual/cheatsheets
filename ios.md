@@ -4,6 +4,8 @@
 ###Crash Reports
 
 - [Understanding and Analyzing iOS Application Crash Reports](https://developer.apple.com/library/ios/technotes/tn2151/_index.html)
+- [My App Crashed, Now What? – Part 1](http://www.raywenderlich.com/10209/my-app-crashed-now-what-part-1)
+- [My App Crashed, Now What? – Part 2](http://www.raywenderlich.com/10505/my-app-crashed-now-what-part-2)
 
 ###Building Universal Apps
 
