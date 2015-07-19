@@ -27,6 +27,7 @@
 ###Best Practices
 
 - [ ] [Web Fundamentals: Best practices for great multi-device web experiences](https://developers.google.com/web/fundamentals/?hl=en)
+- [ ] [Components Should Be Focused, Independent, Reusable, Small & Testable (FIRST)](http://addyosmani.com/first/)
 
 ###Character Sets
 
