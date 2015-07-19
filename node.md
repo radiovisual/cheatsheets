@@ -51,3 +51,7 @@ To run ES6 code in Node.js:
 
 2. Now you can run "babel-node" instead of "node"
 `$ babel-node file-with-es6-js.js`
+
+###Design Patterns
+
+- [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)

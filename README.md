@@ -39,3 +39,4 @@ Browse to the individual cheatsheets:
 - [blog.lum.pe/](http://blog.lum.pe/)
 - [brentvatne.ca/](http://brentvatne.ca/)
 - [dailyjs.com](http://dailyjs.com/)
+- [RisingStack](https://blog.risingstack.com)
