@@ -41,6 +41,7 @@ And make sure you have the proper shebang in your javascript file (myscript.js):
 ###Node Security
 
 - [Secure Node Apps Against OWASP Top 10](http://scottksmith.com/blog/2015/06/08/secure-node-apps-against-owasp-top-10-injection/)
+- [Top Overlooked Security threats to Node.js Web Applications](https://speakerdeck.com/player/c5d895008c77013162b85e7a2e8ee0d7)
 
 ###Run ES6 in node
 
