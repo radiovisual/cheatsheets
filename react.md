@@ -27,6 +27,10 @@
 * [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 * [Ramda](https://github.com/ramda/ramda)
 
+###Videos and Presentations
+
+- [React.js: Secrets of the Virtual DOM](https://www.youtube.com/watch?v=1h2G20A-AvY)
+
 ###Books
 
 * [Learn JavaScript Universal App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
