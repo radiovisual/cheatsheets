@@ -1,5 +1,9 @@
 #Node.js Cheatsheet
 
+###Videos and Presentations
+
+- [React.js: Secrets of the Virtual DOM](https://www.youtube.com/watch?v=1h2G20A-AvY)
+
 ###Detecting Memory Leaks in Node
 
 - [How To Self Detect A Memory Leak in Node](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
