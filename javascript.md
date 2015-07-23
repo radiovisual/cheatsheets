@@ -40,9 +40,16 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ##Video
 
-- [Douglas Crockford "Advanced Javascript"](http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/)
-- [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
-- [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
+* [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott)
+* [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain)
+* [What is Reactive Programming?](https://www.youtube.com/watch?v=dwP1TNXE6fc) [Jafar Husain](https://twitter.com/jhusain) explains reactive programming
+* [Immutability: Putting The Dream Machine To Work](https://www.youtube.com/watch?v=SiFwRtCnxv4) by [David Nolen](https://twitter.com/swannodette)
+* [JavaScript API Design Principles](https://www.youtube.com/watch?v=HYl7ReNB5TA) by Ariya Hidayat
+* [Delivering the Goods](https://www.youtube.com/watch?v=R8W_6xWphtw) Paul Irish on one of the most important but overlooked topics in the development world today - page load times.
+* [Simplicity Matters](https://www.youtube.com/watch?v=rI8tNMsozo0) A later version of the influential talk, "Simple Made Easy" by [Rich Hickey](https://twitter.com/richhickey)
+* [Douglas Crockford "Advanced Javascript"](http://yuiblog.com/blog/2006/11/27/video-crockford-advjs/)
+* [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
+* [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 
 ##Blogs to Follow
 
