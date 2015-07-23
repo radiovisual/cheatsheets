@@ -20,6 +20,7 @@ Browse to the individual cheatsheets:
 - **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js)** Named keycode mappings for the javascript keycodes
 - **[Unreal Engine](https://github.com/radiovisual/cheatsheets/blob/master/unrealengine.md)** Unreal Engine Development & Inspiration
 - **[Art](https://github.com/radiovisual/cheatsheets/blob/master/art.md)** Various design & art inspiration
+- **[WebGL](https://github.com/radiovisual/cheatsheets/blob/master/webgl.md)** Learn WebGL
 
 ###In-Depth Study
 
