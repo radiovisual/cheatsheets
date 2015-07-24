@@ -25,11 +25,11 @@
 * [Advanced Performance](https://facebook.github.io/react/docs/advanced-performance.html)
 * [React Demos](https://github.com/ruanyf/react-demos)
 * [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
-* [Ramda](https://github.com/ramda/ramda)
 
 ###Videos and Presentations
 
 - [React.js: Secrets of the Virtual DOM](https://www.youtube.com/watch?v=1h2G20A-AvY)
+- [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
 
 ###Books
 
