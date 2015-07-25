@@ -57,3 +57,7 @@ To run ES6 code in Node.js:
 ###Design Patterns
 
 - [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
+
+###OpenGraph
+
+- [Get Open Graph Data with Node.js](http://davidwalsh.name/open-graph-data-nodejs)
