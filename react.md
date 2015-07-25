@@ -30,6 +30,7 @@
 
 - [React.js: Secrets of the Virtual DOM](https://www.youtube.com/watch?v=1h2G20A-AvY)
 - [Introduction to React.js](https://www.youtube.com/watch?v=XxVg_s8xAms)
+- [What if the user were a function?](https://www.youtube.com/watch?v=1zj7M1LnJV4) Great talk by [@andrestaltz](https://twitter.com/andrestaltz)
 
 ###Books
 
