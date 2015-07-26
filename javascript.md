@@ -34,8 +34,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)
 - [Syllabus for the Advanced JavaScript class at NYU](https://github.com/advanced-js/syllabus)
 - [Advanced Javascript Slides by John Resig](http://ejohn.org/apps/learn/)
-- [How to Use ES6 for
-   Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
+- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 
 
 ##Video
@@ -82,6 +81,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Making a Game API Server Using Node.js: Revisited](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
 - [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 - [John Resig Annotates the original jQuery source](http://genius.it/5088420/ejohn.org/files/jquery-original.html)
+- [Advanced Performance Audits with Devtools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
 
 ###General Syntax
 
