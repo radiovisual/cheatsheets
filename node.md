@@ -1,5 +1,8 @@
 #Node.js Cheatsheet
 
+###Awesome Node.js Lists
+
+- [sindresorhus/awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md)
 
 ###Detecting Memory Leaks in Node
 
