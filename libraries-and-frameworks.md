@@ -128,3 +128,8 @@
 - [vorlonjs](http://vorlonjs.com/) Remotely debugging and testing your JavaScript. Powered by node.js and socket.io.
 - [Adobe Edge Inspect](https://creative.adobe.com/products/inspect)
 - [Ghostlab](http://vanamco.com/ghostlab/) "Kick-ass synchronized website development"
+
+
+###NES Emulators in JS
+
+- [JSNES](https://fir.sh/projects/jsnes/)
