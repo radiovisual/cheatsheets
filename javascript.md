@@ -82,6 +82,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 - [John Resig Annotates the original jQuery source](http://genius.it/5088420/ejohn.org/files/jquery-original.html)
 - [Advanced Performance Audits with Devtools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
+- [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html)
+
 
 ###General Syntax
 
