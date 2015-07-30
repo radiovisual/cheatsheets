@@ -133,3 +133,9 @@
 ###NES Emulators in JS
 
 - [JSNES](https://fir.sh/projects/jsnes/)
+
+
+### Authentication
+
+- [Authy](https://www.authy.com/users) Two-Factor Authentication for Websites and Mobile Apps
+- [passportjs](http://passportjs.org/) Authentication for node.js apps
