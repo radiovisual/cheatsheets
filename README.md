@@ -41,3 +41,4 @@ Browse to the individual cheatsheets:
 - [brentvatne.ca/](http://brentvatne.ca/)
 - [dailyjs.com](http://dailyjs.com/)
 - [RisingStack](https://blog.risingstack.com)
+- [addyosmani.com/blog/](http://addyosmani.com/blog/)
