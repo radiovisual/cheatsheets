@@ -79,3 +79,7 @@ This command can do a [lot more](http://git-scm.com/docs/git-diff).
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 - [HOW TO GITHUB: FORK, BRANCH, TRACK, SQUASH AND PULL REQUEST](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/)
 - [Git Fake Submodules](http://debuggable.com/posts/git-fake-submodules:4b563ee4-f3cc-4061-967e-0e48cbdd56cb)
+
+## Remove Sensitive Data
+
+- [Remove Sensitive Data from Git](https://help.github.com/articles/remove-sensitive-data/)
