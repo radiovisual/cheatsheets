@@ -17,7 +17,7 @@
 - [ ] [JavaScript: The Good Parts](http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742/ref=sr_1_1?s=books&ie=UTF8&qid=1427192910&sr=1-1&keywords=JavaScript%3A+The+Good+Parts)
 - [ ] [Exploring ES6](http://exploringjs.com/)
 - [ ] [Speaking Javascript](http://speakingjs.com/es5/index.html)
-
+- [ ] [Functional Programming in Javascript](http://www.amazon.com/Functional-Programming-JavaScript-Dan-Mantyla/dp/1784398225/ref=pd_sim_14_4?ie=UTF8&refRID=0TGVWR4T74JV8Q5RAVGY)
 
 ###Front End
 
