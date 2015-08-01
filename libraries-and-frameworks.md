@@ -139,3 +139,7 @@
 
 - [Authy](https://www.authy.com/users) Two-Factor Authentication for Websites and Mobile Apps
 - [passportjs](http://passportjs.org/) Authentication for node.js apps
+
+### Static Site Generators
+
+- [Wintersmith](https://github.com/jnordberg/wintersmith) 
