@@ -9,3 +9,7 @@
 ###The Unix Philosophy
 
 - [Unix Philosophy](https://en.wikipedia.org/wiki/Unix_philosophy)
+
+### Undoing / Fixing / Removing Commits
+
+- [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html#discard_all_unpushed)
