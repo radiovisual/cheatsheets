@@ -29,6 +29,7 @@ Browse to the individual cheatsheets:
 
 ###Blogs to Follow (Javascript)
 
+- [maxogden.com](http://maxogden.com/)
 - [2ality.com/](http://www.2ality.com/)
 - [HTML5 Rocks](http://www.html5rocks.com/en/)
 - [paulirish.com](http://www.paulirish.com/)
