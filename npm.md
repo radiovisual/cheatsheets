@@ -33,3 +33,11 @@ Or you can start the interactive prompt by typing:
 
 `npm config ls`
 
+###See where the default npm directory is
+
+`npm config get prefix`
+
+###List all global npm packages
+
+`npm ls -g`
+

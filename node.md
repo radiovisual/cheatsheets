@@ -1,5 +1,9 @@
 #Node.js Cheatsheet
 
+###Quicklist
+
+- 'node -v' see what version of node you are using
+
 ###Awesome Node.js Lists
 
 - [sindresorhus/awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md)
@@ -15,6 +19,7 @@
 ###Learning node.js
 
 - [NodeSchool](http://nodeschool.io/)
+- [node.js Interview Questions](https://blog.risingstack.com/node-js-interview-questions/)
 
 ###Debugging node
 

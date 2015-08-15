@@ -13,3 +13,28 @@
 ### Undoing / Fixing / Removing Commits
 
 - [On undoing, fixing, or removing commits in git](http://sethrobertson.github.io/GitFixUm/fixup.html#discard_all_unpushed)
+
+### Get the current user
+
+To see the name of the current user:
+
+`whoami`
+
+### Change the Current User
+
+Use the `chown` (change owner) command
+
+`sudo chown <name_of_user>`
+
+### Processes
+
+#### List all processes
+`ps aux`
+
+#### Search for a specific process
+`ps aux | grep node`
+
+#### Kill all specific processes
+`killall -9 node`
+`kill -9 PID`
+
