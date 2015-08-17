@@ -38,3 +38,10 @@ Use the `chown` (change owner) command
 `killall -9 node`
 `kill -9 PID`
 
+### View all spaces or tabs in a file
+
+Useful for checking your Makefiles for problematic spaces (only tabs are allowed)
+
+```
+cat -e -t -v  makefile_name
+```
