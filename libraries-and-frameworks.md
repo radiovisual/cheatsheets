@@ -142,4 +142,5 @@
 
 ### Static Site Generators
 
+- [Metalsmith](https://github.com/segmentio/metalsmith)
 - [Wintersmith](https://github.com/jnordberg/wintersmith) 
