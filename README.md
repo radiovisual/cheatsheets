@@ -44,3 +44,4 @@ Browse to the individual cheatsheets:
 - [RisingStack](https://blog.risingstack.com)
 - [addyosmani.com/blog/](http://addyosmani.com/blog/)
 - [blog.keithcirkel.co.uk/](http://blog.keithcirkel.co.uk/)
+- [rreverser.com](https://rreverser.com/)
