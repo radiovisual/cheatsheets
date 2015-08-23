@@ -43,3 +43,4 @@ Browse to the individual cheatsheets:
 - [dailyjs.com](http://dailyjs.com/)
 - [RisingStack](https://blog.risingstack.com)
 - [addyosmani.com/blog/](http://addyosmani.com/blog/)
+- [blog.keithcirkel.co.uk/](http://blog.keithcirkel.co.uk/)
