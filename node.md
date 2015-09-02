@@ -3,6 +3,8 @@
 ###Quicklist
 
 - 'node -v' see what version of node you are using
+- '$ chmod u+x myscript.js' make your javascript file executable
+- '#!/usr/bin/env node' use this shebang at the top of all node files you want to be executable
 
 ###Projects
 
@@ -25,17 +27,6 @@
 
 - [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
 - [Node.js Testing Strategies](http://www.pluralsight.com/courses/nodejs-testing-strategies)
-
-
-To make a javascript file executable, run this command to change its permissions:
-```
-$ chmod u+x myscript.js
-```
-And make sure you have the proper shebang in your javascript file (myscript.js):
-
-```js
-#!/usr/bin/env node
-```
 
 ###Node CLI
 
