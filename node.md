@@ -4,34 +4,28 @@
 
 - 'node -v' see what version of node you are using
 
+###Projects
+
+- [Making a Game API Server in Node (Revisited)](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
+- [Write your shell scripts in JavaScript, via Node.js](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
+- [Managing Node.js Dependencies with Shrinkwrap (manage Dependency Collisions)](http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/)
+- [How To Self Detect A Memory Leak in Node](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
+- [Get Open Graph Data with Node.js](http://davidwalsh.name/open-graph-data-nodejs)
+
 ###Awesome Node.js Lists
 
 - [sindresorhus/awesome-nodejs](https://raw.githubusercontent.com/sindresorhus/awesome-nodejs/master/readme.md)
-
-###Detecting Memory Leaks in Node
-
-- [How To Self Detect A Memory Leak in Node](http://www.nearform.com/nodecrunch/self-detect-memory-leak-node/)
-
-###Managing Dependency Collisions
-
-- [Managing Node.js Dependencies with Shrinkwrap](http://blog.nodejs.org/2012/02/27/managing-node-js-dependencies-with-shrinkwrap/)
 
 ###Learning node.js
 
 - [NodeSchool](http://nodeschool.io/)
 - [node.js Interview Questions](https://blog.risingstack.com/node-js-interview-questions/)
 
-###Debugging node
+###Testing & Debugging Node
 
 - [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
-
-###Testing Node
-
 - [Node.js Testing Strategies](http://www.pluralsight.com/courses/nodejs-testing-strategies)
 
-###Shell scripts in Node
-
-- [Write your shell scripts in JavaScript, via Node.js](http://www.2ality.com/2011/12/nodejs-shell-scripting.html)
 
 To make a javascript file executable, run this command to change its permissions:
 ```
@@ -66,6 +60,4 @@ To run ES6 code in Node.js:
 
 - [Fundamental Node.js Design Patterns](https://blog.risingstack.com/fundamental-node-js-design-patterns/)
 
-###OpenGraph
 
-- [Get Open Graph Data with Node.js](http://davidwalsh.name/open-graph-data-nodejs)
