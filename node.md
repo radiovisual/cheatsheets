@@ -2,9 +2,9 @@
 
 ###Quicklist
 
-- 'node -v' see what version of node you are using
-- '$ chmod u+x myscript.js' make your javascript file executable
-- '#!/usr/bin/env node' use this shebang at the top of all node files you want to be executable
+- `$ node -v` see what version of node you are using
+- `$ chmod u+x myscript.js` make your javascript file executable
+- `#!/usr/bin/env node` use this shebang at the top of all node files you want to be executable
 
 ###Projects
 
