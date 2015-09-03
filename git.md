@@ -22,6 +22,11 @@ git config --global user.name`
 
 See: [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 
+### Track changes to a file
+
+```sh
+git log --follow -p -- file
+```
 
 ### Removing Files & Directories From a Repo
 
