@@ -97,6 +97,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs
 - [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
 - [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Written before ES6 modules. Still good info though.
+- [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 
 ###General Syntax
 
