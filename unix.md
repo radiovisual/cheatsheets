@@ -5,6 +5,8 @@
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Cyberwizard Institute Unix](https://github.com/cyberwizardinstitute/workshops/blob/master/unix.markdown)
 - [Become a Unix Wizard](https://github.com/substack/unix-adventure)
+- [Eight Terminal Utilities Every OS X Command Line User Should Know - Part 1](http://www.mitchchn.me/2014/os-x-terminal/?x)
+- [Eight Terminal Utilities Every OS X Command Line User Should Know - Part 2](http://www.mitchchn.me/2014/and-eight-hundred-more/)
 
 ###The Unix Philosophy
 
