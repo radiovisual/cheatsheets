@@ -28,6 +28,10 @@ Use the `chown` (change owner) command
 
 `sudo chown <name_of_user>`
 
+### Change the permissions on a directory to the current user
+
+`sudo chown -R $USER /usr/local`
+
 ### Processes
 
 #### List all processes
