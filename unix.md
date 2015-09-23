@@ -51,3 +51,9 @@ Useful for checking your Makefiles for problematic spaces (only tabs are allowed
 ```
 cat -e -t -v  makefile_name
 ```
+
+### Find all occurrences of a string
+
+```
+grep -i stringToSearchFor * -R
+```
