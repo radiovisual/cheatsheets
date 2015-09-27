@@ -28,6 +28,10 @@
 - [NodeSchool](http://nodeschool.io/)
 - [node.js Interview Questions](https://blog.risingstack.com/node-js-interview-questions/)
 
+###Books
+
+- [Node.js in Action, Second Edition](https://www.manning.com/books/node-js-in-action-second-edition)
+
 ###Testing & Debugging Node
 
 - [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
