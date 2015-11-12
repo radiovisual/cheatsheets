@@ -21,6 +21,7 @@ Browse to the individual cheatsheets:
 - **[Unreal Engine](https://github.com/radiovisual/cheatsheets/blob/master/unrealengine.md)** Unreal Engine Development & Inspiration
 - **[Art](https://github.com/radiovisual/cheatsheets/blob/master/art.md)** Various design & art inspiration
 - **[WebGL](https://github.com/radiovisual/cheatsheets/blob/master/webgl.md)** Learn WebGL
+- **[Lexers & Parsers](https://github.com/radiovisual/cheatsheets/blob/master/lexers-parsers.md)** Build a Lexer and Parser
 
 ###In-Depth Study
 
