@@ -139,3 +139,7 @@ NSError *jsonError;
 ```
  $ find /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs -name 'MobileIcons.framework'
 ```
+
+### Articles Worth Exploring
+
+- [Building the Build System - Part 1 - Abandoning the Build Panel](http://robnapier.net/build-system-1-build-panel)
