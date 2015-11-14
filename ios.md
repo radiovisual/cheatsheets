@@ -1,5 +1,10 @@
 #iOS Development
 
+### Books
+
+- [Programming iOS 9](http://shop.oreilly.com/product/0636920044352.do)
+- [iOS 9 Programming Fundamentals with Swift](http://shop.oreilly.com/product/0636920044345.do)
+
 
 ###Crash Reports
 
