@@ -62,17 +62,6 @@
 - [goocreate](http://www.goocreate.com/)
 - [PolyK](http://polyk.ivank.net/)
 
-###Inspirational WebGL & Interactive
-
-- [inconvergent.net](http://inconvergent.net/)
-- [Chrome experiments](https://www.chromeexperiments.com/)
-- [kitasenjudesign](http://kitasenjudesign.com/)
-- [Black Ribbons](http://grgrdvrt.com/miam/sweet_dream/)
-- [grgrdvrt](http://grgrdvrt.com/)
-- [Tangent Spaces](http://tangentspaces.co.uk/)
-- [http://www.clicktorelease.com/](http://www.clicktorelease.com/)
-- [void.hi-res.net/](http://void.hi-res.net/)
-
 ###Physics Engines
 
 - [Cannon.js](http://schteppe.github.io/cannon.js/)
