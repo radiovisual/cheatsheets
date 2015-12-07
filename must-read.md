@@ -6,6 +6,7 @@
 - [ ] [Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation](http://smile.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912/)
 - [ ] [stream-handbook](https://github.com/substack/stream-handbook)
 - [ ] [How to Build a High Velocity Development Team](https://medium.com/javascript-scene/how-to-build-a-high-velocity-development-team-4b2360d34021)
+- [ ] [High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545)
 
 ###Javascript
 
