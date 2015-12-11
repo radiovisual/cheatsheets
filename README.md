@@ -23,6 +23,7 @@ Browse to the individual cheatsheets:
 - **[WebGL](https://github.com/radiovisual/cheatsheets/blob/master/webgl.md)** Learn WebGL
 - **[Lexers & Parsers](https://github.com/radiovisual/cheatsheets/blob/master/lexers-parsers.md)** Build a Lexer and Parser
 - **[Computer Vision](https://github.com/radiovisual/cheatsheets/blob/master/computer-vision.md)** Learn to program Computer Vision
+- **[Django](https://github.com/radiovisual/cheatsheets/blob/master/django.md)** Django quick-start and user reference
 
 
 ###In-Depth Study
