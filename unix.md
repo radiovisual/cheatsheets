@@ -57,3 +57,11 @@ cat -e -t -v  makefile_name
 ```
 grep -i stringToSearchFor * -R
 ```
+
+### See what programs are open on a specific port:
+
+#### lsof (LiSt Open Files)
+```
+$ lsof -i :8000
+Python    9130 michael    4u  IPv4 0x3000b6b231447541      0t0  TCP localhost:irdmi (LISTEN)
+```
