@@ -63,5 +63,12 @@ grep -i stringToSearchFor * -R
 #### lsof (LiSt Open Files)
 ```
 $ lsof -i :8000
-Python    9130 michael    4u  IPv4 0x3000b6b231447541      0t0  TCP localhost:irdmi (LISTEN)
+Python    9130 michael    4u  IPv4 0x0000000000000000      0t0  TCP localhost:irdmi (LISTEN)
+```
+
+### Get detailed information about a process
+
+```
+$ echo "get in on PID 9130"
+$ ps -fp 9130
 ```
