@@ -87,7 +87,7 @@ Now that you have your app up and running, let's get your database setup.
     ```
     - Now do the migrations for the new app: `$ python manage.py makemigrations polls`
 1. Now run this command: `$ python manage.py makemigrations`
-1. and finally: `$ python manage.py migrate`
+1. And finally: `$ python manage.py migrate`
 
 ## Misc Migration Commands
 
@@ -101,6 +101,15 @@ Check for migration problems without touching the database
 $ python manage.py check
 ```
 
+## Django Admin
+ 
+
+## Useful Scripts
+
+- Run the Django dev server: `$ python manage.py runserver`
+- Open up the Django shell: `$ python manage.py shell`
+- Create an admin superuser: `$ python manage.py createsuperuser`
+
 ## Hosting 
 
 - [Deploying Django to Heroku](https://godjango.com/4-deploying-django-to-heroku/)
@@ -109,6 +118,8 @@ $ python manage.py check
 ## Recommended Libraries / Utilities
  
 - [virtualenv](https://virtualenv.readthedocs.org/en/latest/userguide.html#usage) Wrap your Django projects in a virtualenv and shelter/control your dependencies. 
+- [cookiecutter-django](https://github.com/pydanny/cookiecutter-django) Cookiecutter template for creating production-ready projects quickly.
+- [django-ckeditor](https://github.com/django-ckeditor/django-ckeditor) A Rich Text Editor
 
 
 
