@@ -77,6 +77,29 @@ For example, to see the differences across commits for file.txt
 
 This command can do a [lot more](http://git-scm.com/docs/git-diff).
 
+## Sync Your Local Fork
+
+```
+git fetch upstream
+git checkout master
+git merge upstream/master
+```
+
+If you get an error: `fatal: 'upstream' does not appear to be a git repository` then you first need to add the upstream repo before running the commands above:
+
+```
+git remote add upstream https://github.com/original-project/repo-name.git
+```
+
+## Check your Remotes
+
+```
+$ git remote -v
+origin	https://github.com/my-project/repo-name.git (fetch)
+origin	https://github.com/my-project/repo-name.git (push)
+upstream	https://github.com/original-project/repo-name.git (fetch)
+upstream	https://github.com/original-project/repo-name.git (push)
+```
 
 ## Nice Resources
 
@@ -86,6 +109,7 @@ This command can do a [lot more](http://git-scm.com/docs/git-diff).
 - [Git Fake Submodules](http://debuggable.com/posts/git-fake-submodules:4b563ee4-f3cc-4061-967e-0e48cbdd56cb)
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [How To Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [quick tip - syncing your local git fork](http://harlankellaway.com/blog/2014/11/19/git-syncing-local-fork/)
 
 ## Remove Sensitive Data
 
