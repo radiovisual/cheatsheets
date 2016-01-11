@@ -101,6 +101,53 @@ upstream	https://github.com/original-project/repo-name.git (fetch)
 upstream	https://github.com/original-project/repo-name.git (push)
 ```
 
+## Change git's default text editor
+
+Update your `PATH` variable to point to the application if the command to launch it is not already available to the command line:
+```
+# Add TextEdit to your PATH so it can be launched by git
+export PATH=/Applications/TextEdit.app/Contents/MacOS/TextEdit:$PATH
+```
+
+Now add the command to git's config file:
+
+```
+$ git config --global core.editor TextEdit
+```
+
+## Changing the Latest Commit Message (BEFORE pushed to GitHub)
+
+```
+$ git commit --amend -m "New commit message"
+```
+
+## Revert to an old commit
+
+```
+$ git reset --hard <SHA CHECKSUM of your commit>
+```
+
+## Delete a Local Branch
+
+```
+$ git branch -d the_local_branch
+```
+
+## Rollback to a Previous Commit
+
+**Note:** Using this is dangerous in a collaborative environment: you're rewriting history!
+
+If just local:
+```
+$ git reset --hard <old-commit-id>
+```
+
+Local and remote:
+
+```
+git push -f <remote-name> <branch-name>
+```
+
 ## Nice Resources
 
 - [Pro Git](http://git-scm.com/book/en/v2)
