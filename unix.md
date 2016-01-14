@@ -72,3 +72,9 @@ Python    9130 michael    4u  IPv4 0x0000000000000000      0t0  TCP localhost:ir
 $ echo "get in on PID 9130"
 $ ps -fp 9130
 ```
+
+### Generate an encrypted archive:
+
+```
+$ zip -er [archive] [folder]
+```
