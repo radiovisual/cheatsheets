@@ -22,13 +22,13 @@ git config --global user.name`
 
 See: [Setting your username in Git](https://help.github.com/articles/setting-your-username-in-git/)
 
-### Track changes to a file
+#### Track changes to a file
 
 ```sh
 git log --follow -p -- file
 ```
 
-### Removing Files & Directories From a Repo
+#### Removing Files & Directories From a Repo
 
 To remove a file from a commit (and delete it from the filesystem):
 ```
@@ -48,7 +48,7 @@ git rm -r -f directory/*
 Notes: update your .gitignore if you don't want these files to be added back in.
 
 
-### Make Your Fork Track the Original Upstream Repo ([source](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/))
+#### Make Your Fork Track the Original Upstream Repo ([source](https://gun.io/blog/how-to-github-fork-branch-and-pull-request/))
 
 This step isn't absolutely necessary, but I find it **very useful** if you plan on working on this project for anything more than a very quick fix. Use the following commands to add the 'upsteam' (original project location) as a remote branch so that you can get their updates into your branch. Replace the 'upstreamname' and 'projectname' values with that actual user/project name that you're trying to track.
 ```
@@ -65,7 +65,7 @@ git merge upstream/master
 Tada! Now you'll have an up-to-date version of the upstream code in your current branch.
 
 
-### Comparing the difference between files across commits
+#### Comparing the difference between files across commits
 
 Use the `diff` command to compare the difference between commits.
 
@@ -77,7 +77,7 @@ For example, to see the differences across commits for file.txt
 
 This command can do a [lot more](http://git-scm.com/docs/git-diff).
 
-## Sync Your Local Fork
+#### Sync Your Local Fork
 
 ```
 git fetch upstream
@@ -91,7 +91,7 @@ If you get an error: `fatal: 'upstream' does not appear to be a git repository` 
 git remote add upstream https://github.com/original-project/repo-name.git
 ```
 
-## Check your Remotes
+#### Check your Remotes
 
 ```
 $ git remote -v
@@ -101,7 +101,7 @@ upstream	https://github.com/original-project/repo-name.git (fetch)
 upstream	https://github.com/original-project/repo-name.git (push)
 ```
 
-## Change git's default text editor
+#### Change git's default text editor
 
 Update your `PATH` variable to point to the application if the command to launch it is not already available to the command line:
 ```
@@ -115,25 +115,25 @@ Now add the command to git's config file:
 $ git config --global core.editor TextEdit
 ```
 
-## Changing the Latest Commit Message (BEFORE pushed to GitHub)
+#### Changing the Latest Commit Message (BEFORE pushed to GitHub)
 
 ```
 $ git commit --amend -m "New commit message"
 ```
 
-## Revert to an old commit
+#### Revert to an old commit
 
 ```
 $ git reset --hard <SHA CHECKSUM of your commit>
 ```
 
-## Delete a Local Branch
+#### Delete a Local Branch
 
 ```
 $ git branch -d the_local_branch
 ```
 
-## Rollback to a Previous Commit
+#### Rollback to a Previous Commit
 
 **Note:** Using this is dangerous in a collaborative environment: you're rewriting history!
 
@@ -148,7 +148,13 @@ Local and remote:
 git push -f <remote-name> <branch-name>
 ```
 
-## Nice Resources
+#### Rename a file in git
+
+```
+$ git mv <oldfilename> <newfilename>
+```
+
+### Nice Resources
 
 - [Pro Git](http://git-scm.com/book/en/v2)
 - [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
@@ -158,6 +164,6 @@ git push -f <remote-name> <branch-name>
 - [How To Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [quick tip - syncing your local git fork](http://harlankellaway.com/blog/2014/11/19/git-syncing-local-fork/)
 
-## Remove Sensitive Data
+### Remove Sensitive Data
 
 - [Remove Sensitive Data from Git](https://help.github.com/articles/remove-sensitive-data/)
