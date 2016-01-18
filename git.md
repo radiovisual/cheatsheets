@@ -163,6 +163,7 @@ $ git mv <oldfilename> <newfilename>
 - [Learn Git Branching](http://learngitbranching.js.org/)
 - [How To Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [quick tip - syncing your local git fork](http://harlankellaway.com/blog/2014/11/19/git-syncing-local-fork/)
+- [My pull request was merged, now what?](http://stackoverflow.com/a/12772000/3960969)
 
 ### Remove Sensitive Data
 
