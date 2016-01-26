@@ -46,7 +46,7 @@
 ###General React Articles
 
 - [60 FPS on the Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web/)
-
+- [Containers Are Dead. Long Live Observable Combinators](https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.pzszt7add)
 
 ### React Animation
 
