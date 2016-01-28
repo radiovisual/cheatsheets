@@ -101,6 +101,13 @@ upstream	https://github.com/original-project/repo-name.git (fetch)
 upstream	https://github.com/original-project/repo-name.git (push)
 ```
 
+#### Change a remote url
+
+```
+$ git remote set-url origin git://new.url.here
+$ git push -u origin master (use -u on your first new push to specify new upstream)
+```
+
 #### Change git's default text editor
 
 Update your `PATH` variable to point to the application if the command to launch it is not already available to the command line:

@@ -1,6 +1,6 @@
-#Shell cheatsheet
+# Shell cheatsheet
 
-### Compress all files in a directory
+#### Compress all files in a directory
 
 Compress all files from folderToCompress directory into a file named compressFileName.tar.gz
 Note: works with GNU tar
@@ -24,7 +24,7 @@ To expand the archive:
 zcat compressFileName | tar xvf -
 ```
 
-### Colors in a Bash Shell
+#### Colors in a Bash Shell
 
 ```
 #!/bin/bash
