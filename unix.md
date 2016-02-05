@@ -78,3 +78,9 @@ $ ps -fp 9130
 ```
 $ zip -er [archive] [folder]
 ```
+
+### Create a symlink
+
+```
+ln -s /path/to/original /path/to/symlink
+```
