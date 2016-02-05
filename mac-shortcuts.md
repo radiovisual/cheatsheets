@@ -15,3 +15,11 @@ Command | Description
 <kbd>ALT</kbd> + <kbd>→</kbd> | Jump to the next word character
 <kbd>ALT</kbd> + <kbd>←</kbd> | Jump to the previous word character
 <kbd>CTRL</kbd> + <kbd>U</kbd> | Clear input before the carat (clear entire line)
+
+### Say
+
+Turn an entire text file into an audio file
+
+```
+say -f mynovel.txt -o myaudiobook.aiff
+```
