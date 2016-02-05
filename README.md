@@ -24,7 +24,7 @@ Browse to the individual cheatsheets:
 - **[Lexers & Parsers](https://github.com/radiovisual/cheatsheets/blob/master/lexers-parsers.md)** Build a Lexer and Parser
 - **[Computer Vision](https://github.com/radiovisual/cheatsheets/blob/master/computer-vision.md)** Learn to program Computer Vision
 - **[Django](https://github.com/radiovisual/cheatsheets/blob/master/django.md)** Django quick-start and user reference
-
+- **[Mac Shortcuts](https://github.com/radiovisual/cheatsheets/blob/master/mac-shortcuts.md)** Useful shortcuts for mac users
 
 ###In-Depth Study
 
