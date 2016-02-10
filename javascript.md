@@ -1,4 +1,4 @@
-#Javascript Cheatsheet
+# Javascript Cheatsheet
 
 
 ## Standards
@@ -6,7 +6,7 @@
 - [ECMA-262 6th Edition (ES6)](http://www.ecma-international.org/ecma-262/6.0/)
 
 
-##Javascript Anti-Patterns
+## Javascript Anti-Patterns
 
 Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/#antipatterns)
 
@@ -19,11 +19,11 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 "Knowledge of anti-patterns is critical for success. Once we are able to recognize such anti-patterns, we're able to refactor our code to negate them so that the overall quality of our solutions improves instantly."
 
 
-##Workshops
+## Workshops
 
 - [Cyberwizard Institute Workshops](https://github.com/cyberwizardinstitute/workshops/blob/master/javascript.markdown)
 
-##Advanced Javascript Courses
+## Advanced Javascript Courses
 
 - [Modern Developer](https://learn.modern-developer.com/)
 - [Advanced JS Fundamentals to jQuery & Pure DOM Scripting](https://frontendmasters.com/courses/javascript-jquery-dom/)
@@ -37,7 +37,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 
 
-##Video
+## Video
 
 * [Classical Inheritance is Obsolete: How to Think in Prototypal OO](https://vimeo.com/69255635) by [Eric Elliott](https://twitter.com/_ericelliott)
 * [Asynchronous Programming at Netflix](https://www.youtube.com/watch?v=gawmdhCNy-A) [Jafar Husain](https://twitter.com/jhusain)
@@ -50,7 +50,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 * [Functional Programming with Generators](https://www.youtube.com/watch?v=B2ASp0jb6FY)
 * [Hanging Up On Callbacks: Generators in ECMAScript 6](https://www.youtube.com/watch?v=s-BwEk-Y4kg)
 
-##Blogs to Follow
+## Blogs to Follow
 
 - [substack.net](http://substack.net/)
 - [davidwalsh.name](http://davidwalsh.name/)
@@ -61,7 +61,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [http://ericleads.com/](http://ericleads.com/)
 - [The Tao of λ](http://buzzdecafe.github.io/)
 
-##Noteworthy Articles
+## Noteworthy Articles
 
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
@@ -98,17 +98,18 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
 - [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Written before ES6 modules. Still good info though.
 - [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
+- [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
 
-###General Syntax
+### General Syntax
 
 **BAD:** var options = options || {};
 **GOOD:** [defaults/overrides pattern](https://gist.github.com/ericelliott/f3c2a53a1d4100539f71)
 
-###Style Guides
+### Style Guides
 
 - [AirBNB JS Styleguide](https://github.com/airbnb/javascript)
 
-###Noteworthy JS Libraries
+### Noteworthy JS Libraries
 
 - [Ramda - Practical functional Javascript](https://github.com/ramda/ramda)
 
