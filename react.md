@@ -9,6 +9,7 @@
 
 ### Learning React
 
+* [react-howto](https://github.com/petehunt/react-howto)
 * [React 2014: Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 * [Reach and Flux for Total Beginners](http://prestonparry.com/articles/ReactCurriculum/)
 * [Removing User Interface Complexity, or Why React is Awesome](http://jlongster.com/Removing-User-Interface-Complexity,-or-Why-React-is-Awesome)
@@ -26,6 +27,10 @@
 * [React Demos](https://github.com/ruanyf/react-demos)
 * [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 * [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
+
+### Redux
+
+* [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux) Highly recommended course on learning Redux from the Redux author himself!
 
 ### Videos and Presentations
 
