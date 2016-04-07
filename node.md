@@ -30,6 +30,7 @@
 
 #### Learning node.js
 
+- [You Don’t Know Node: Quick Intro to Core Features](https://medium.com/software-engineering/you-don-t-know-node-quick-intro-to-core-features-8e5146655bef)
 - [NodeSchool](http://nodeschool.io/)
 - [node.js Interview Questions](https://blog.risingstack.com/node-js-interview-questions/)
 
