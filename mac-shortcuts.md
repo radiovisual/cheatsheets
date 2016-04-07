@@ -1,5 +1,7 @@
 # Mac Shortcuts
 
+### Screenshots
+
 Take a screen shot of a specific region; save to file
 
 ```
@@ -15,6 +17,12 @@ Command | Description
 <kbd>ALT</kbd> + <kbd>→</kbd> | Jump to the next word character
 <kbd>ALT</kbd> + <kbd>←</kbd> | Jump to the previous word character
 <kbd>CTRL</kbd> + <kbd>U</kbd> | Clear input before the carat (clear entire line)
+
+### Emoji
+
+Command | Description
+--- | ---
+<kbd>CTRL</kbd> + <kbd>Cmd</kbd> + <kbd>Space</kbd> | Press within any textfield on OSX to open an emoji popover
 
 ### Say
 
