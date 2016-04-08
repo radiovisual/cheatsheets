@@ -161,15 +161,15 @@ git push -f <remote-name> <branch-name>
 $ git mv <oldfilename> <newfilename>
 ```
 
-#### Global ignore
+#### Global Ignore
 
-Create or edit a global gitignore file
+Create (or edit) a .gitignore_global file.
 
 ```
 touch ~/.gitignore_global
 ```
 
-with the following contents: 
+with the following sample contents (for MAC OS X): 
 
 <pre>
 # OS generated files #
@@ -183,7 +183,7 @@ ehthumbs.db
 Thumbs.db
 </pre>
 
-Now register the global gitignore with Git.
+Now register the `.gitignore_global` file with git:
 
 ```
 git config --global core.excludesfile ~/.gitignore_global
