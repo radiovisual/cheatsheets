@@ -92,6 +92,7 @@
 ### DevTools & Javascript Performance
 
 - [Advanced Performance Audits With DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/)
+- [Advanced performance tooling in Chrome DevTools](https://www.youtube.com/watch?v=0xx_dkv9DEY) Paul Irish @ Velocity 2014
 
 ### JS CMS
 
