@@ -42,6 +42,7 @@
 
 - [TEN TIPS FOR CODING WITH NODE.JS #1: DEVELOP DEBUGGING TECHNIQUES](http://www.nearform.com/nodecrunch/node-js-develop-debugging-techniques/)
 - [Node.js Testing Strategies](http://www.pluralsight.com/courses/nodejs-testing-strategies)
+- [Debugging Node.js Applications Using Core Dumps](https://reaktor.com/blog/debugging-node-js-applications-using-core-dumps/)
 
 #### Node CLI
 
