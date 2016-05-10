@@ -31,3 +31,11 @@ Turn an entire text file into an audio file
 ```
 say -f mynovel.txt -o myaudiobook.aiff
 ```
+
+### Zip Encryption
+
+Archive a folder with encryption (`-r`: recursively enter folder, `-P`: password protect)
+
+```
+zip -r -P mySuperSecretPassword secure_output.zip path/to/folder/
+```
