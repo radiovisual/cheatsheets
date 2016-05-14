@@ -99,6 +99,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Written before ES6 modules. Still good info though.
 - [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 - [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
+- [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.va902pu9y)
+
 
 ### General Syntax
 
