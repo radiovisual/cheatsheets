@@ -114,4 +114,5 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 ### Noteworthy JS Libraries
 
 - [Ramda - Practical functional Javascript](https://github.com/ramda/ramda)
+- [RxJS](https://github.com/Reactive-Extensions/RxJS) An API for asynchronous programming with observable streams
 
