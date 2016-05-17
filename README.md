@@ -14,6 +14,7 @@ Browse to the individual cheatsheets:
 - **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)** Popular libraries and frameworks
 - **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the swift language for iOS development.
 - **[React](https://github.com/radiovisual/cheatsheets/blob/master/react.md)** Explore the react.js framework
+- **[Redux](https://github.com/radiovisual/cheatsheets/blob/master/redux.md)** Learn Redux
 - **[React Native](https://github.com/radiovisual/cheatsheets/blob/master/react-native.md)** Explore the react-native framework
 - **[iOS Development](https://github.com/radiovisual/cheatsheets/blob/master/ios.md)** Explore the wonders of iOS / Mac OS development
 - **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques.
