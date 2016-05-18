@@ -161,6 +161,14 @@ git push -f <remote-name> <branch-name>
 $ git mv <oldfilename> <newfilename>
 ```
 
+#### Remove Uncommitted Changes
+
+Remove any uncommitted changes and revert back to the state of your last commit:
+
+```
+$ git reset --hard HEAD
+```
+
 #### Global Ignore
 
 Create (or edit) a .gitignore_global file.
