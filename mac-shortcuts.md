@@ -39,3 +39,12 @@ Archive a folder with encryption (`-r`: recursively enter folder, `-P`: password
 ```
 zip -r -P mySuperSecretPassword secure_output.zip path/to/folder/
 ```
+
+### Finding files
+
+#### List files over 100Mb
+
+```
+sudo find / -type f -size +100000k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+```
+
