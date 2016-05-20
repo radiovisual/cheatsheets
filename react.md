@@ -6,6 +6,8 @@
 * [React Tips and Best Practices](http://aeflash.com/2015-02/react-tips-and-best-practices.html)
 * [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [Easily testing React components with react-test-tree](https://medium.com/qubit-engineering/easily-testing-react-components-with-react-test-tree-f9e1668b1c2d)
+* [Tips to optimise rendering of a set of elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.z3j4z35aj)
+
 
 ### Learning React
 
@@ -28,6 +30,8 @@
 * [React Demos](https://github.com/ruanyf/react-demos)
 * [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 * [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
+* [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
+
 
 ### Redux
 
