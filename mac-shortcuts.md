@@ -44,7 +44,9 @@ zip -r -P mySuperSecretPassword secure_output.zip path/to/folder/
 
 #### List files over 100Mb
 
+Use `-x` to avoid traversing through mounted drives
+
 ```
-sudo find / -type f -size +100000k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
+sudo find -x / -type f -size +100000k -exec ls -lh {} \; | awk '{ print $9 ": " $5 }'
 ```
 
