@@ -63,6 +63,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ## Noteworthy Articles
 
+- [Async and Await](https://zeit.co/blog/async-and-await)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
