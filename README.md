@@ -50,3 +50,4 @@ Browse to the individual cheatsheets:
 - [addyosmani.com/blog/](http://addyosmani.com/blog/)
 - [blog.keithcirkel.co.uk/](http://blog.keithcirkel.co.uk/)
 - [rreverser.com](https://rreverser.com/)
+- [h3manth.com](https://h3manth.com/new/)
