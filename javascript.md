@@ -117,3 +117,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Ramda - Practical functional Javascript](https://github.com/ramda/ramda)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) An API for asynchronous programming with observable streams
 
+### JavaScript Books
+
+-[Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/) by Dr. Axel Rauschmayer
+
