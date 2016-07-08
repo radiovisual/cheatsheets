@@ -41,6 +41,10 @@ Or you can start the interactive prompt by typing:
 
 `npm ls -g`
 
+#### Auto-update a dependency to the latest version
+
+`npm install express@* --save`
+
 #### Articles
 
 - [Why I Left Gulp and Grunt for npm Scripts](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8#.la6lykfzg)
