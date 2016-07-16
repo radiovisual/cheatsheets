@@ -9,16 +9,16 @@ Browse to the individual cheatsheets:
 - **[Git](https://github.com/radiovisual/cheatsheets/blob/master/git.md)** Quick guide to the most common use cases in Git
 - **[UNIX](https://github.com/radiovisual/cheatsheets/blob/master/unix.md)** Get to know the most common UNIX commands
 - **[Shell](https://github.com/radiovisual/cheatsheets/blob/master/shell.md)** Learn to use Shell commands to increase your productivity
-- **[Javascript](https://github.com/radiovisual/cheatsheets/blob/master/javascript.md)** Document some tips and tricks to handle "advanced" javascript.
+- **[JavaScript](https://github.com/radiovisual/cheatsheets/blob/master/javascript.md)** Document some tips and tricks to handle "Advanced" JavaScript
 - **[Node.js](https://github.com/radiovisual/cheatsheets/blob/master/node.md)** Learn common practices in node
 - **[Libraries & Frameworks](https://github.com/radiovisual/cheatsheets/blob/master/libraries-and-frameworks.md)** Popular libraries and frameworks
-- **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the swift language for iOS development.
+- **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the Swift language for iOS development
 - **[React](https://github.com/radiovisual/cheatsheets/blob/master/react.md)** Explore the react.js framework
 - **[Redux](https://github.com/radiovisual/cheatsheets/blob/master/redux.md)** Learn Redux
 - **[React Native](https://github.com/radiovisual/cheatsheets/blob/master/react-native.md)** Explore the react-native framework
 - **[iOS Development](https://github.com/radiovisual/cheatsheets/blob/master/ios.md)** Explore the wonders of iOS / Mac OS development
-- **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques.
-- **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js)** Named keycode mappings for the javascript keycodes
+- **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques
+- **[keycodes](https://github.com/radiovisual/cheatsheets/blob/master/keycodes.js)** Named keycode mappings for the JavaScript keycodes
 - **[Unreal Engine](https://github.com/radiovisual/cheatsheets/blob/master/unrealengine.md)** Unreal Engine Development & Inspiration
 - **[Art](https://github.com/radiovisual/cheatsheets/blob/master/art.md)** Various design & art inspiration
 - **[WebGL](https://github.com/radiovisual/cheatsheets/blob/master/webgl.md)** Learn WebGL
@@ -32,7 +32,7 @@ Browse to the individual cheatsheets:
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
 
 
-###Blogs to Follow (Javascript)
+###Blogs to Follow (JavaScript)
 
 - [maxogden.com](http://maxogden.com/)
 - [2ality.com/](http://www.2ality.com/)
