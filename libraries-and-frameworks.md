@@ -144,3 +144,7 @@
 
 - [Docker](https://www.docker.com/)
 - [Heroku](https://www.heroku.com/)
+
+### Icons
+
+- [icomoon](https://icomoon.io/) Vector fonts and icons
