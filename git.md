@@ -197,6 +197,15 @@ Now register the `.gitignore_global` file with git:
 git config --global core.excludesfile ~/.gitignore_global
 ```
 
+#### Reset your fork to upstream
+
+```
+git remote add upstream /url/to/original/repo
+git fetch upstream
+git checkout master
+git reset --hard upstream/master  
+git push origin master --force 
+```
 
 ### Nice Resources
 
