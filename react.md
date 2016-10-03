@@ -12,6 +12,7 @@
 ### Learning React
 
 * [React for Beginners](https://reactforbeginners.com/)
+* [React Makes You Sad](https://github.com/gaearon/react-makes-you-sad)
 * [react-howto](https://github.com/petehunt/react-howto)
 * [React 2014: Erik Meijer - What does it mean to be Reactive?](https://www.youtube.com/watch?v=sTSQlYX5DU0)
 * [Reach and Flux for Total Beginners](http://prestonparry.com/articles/ReactCurriculum/)
