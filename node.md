@@ -6,11 +6,6 @@
 - `$ chmod u+x myscript.js` make your javascript file executable
 - `#!/usr/bin/env node` use this shebang at the top of all node files you want to be executable
 
-#### Version 4.0.0
-
-- [Nodejs v4.0.0 Release Announcement](https://nodejs.org/en/blog/release/v4.0.0/)
-- [Breaking changes between v0.12 & v4.0.0](https://github.com/nodejs/LTS/wiki/Breaking-changes-between-v0.12-and-next-LTS-release)
-
 #### Projects
 
 - [Making a Game API Server in Node (Revisited)](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
@@ -33,6 +28,8 @@
 - [You Don’t Know Node: Quick Intro to Core Features](https://medium.com/software-engineering/you-don-t-know-node-quick-intro-to-core-features-8e5146655bef)
 - [NodeSchool](http://nodeschool.io/)
 - [node.js Interview Questions](https://blog.risingstack.com/node-js-interview-questions/)
+- [Token Based Authentication with Node](http://mherman.org/blog/2016/10/28/token-based-authentication-with-node/?utm_source=nodeweekly&utm_medium=email#.WBtWKuGLRTY)
+- [Node.js at Scale - Understanding the Node.js Event Loop](https://blog.risingstack.com/node-js-at-scale-understanding-node-js-event-loop/)
 
 #### Books
 
@@ -55,7 +52,7 @@
 
 #### Run ES6 in node
 
-To run ES6 code in Node.js:
+To run ES6 code in version of Node < v6:
 
 1. Make sure babel is installed
 `$ npm install -g babel`
