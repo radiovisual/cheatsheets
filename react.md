@@ -32,6 +32,7 @@
 * [Functional UI and Components as Higher Order Functions](http://blog.risingstack.com/functional-ui-and-components-as-higher-order-functions/)
 * [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
 * [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
+* [Performance Optimisations for React Applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.lbc1hnd2d)
 
 ### React Testing
 
