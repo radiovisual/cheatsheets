@@ -2,6 +2,7 @@
 
 ### Learning React Native
 
+* [Goodbye ../../../ Removing relative paths when importing](http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html)
 * [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178)
 * [Testing React Native with the New Jest - Part 1](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe)
 * [Testing React Native with the New Jest - Part 2](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-ii-redux-snapshots-for-your-actions-and-reducers-8559f6f8050b#.nu1a8mlnx)
