@@ -2,6 +2,7 @@
 
 ### Learning React Native
 
+* [The Essential Boilerplate to Authenticate Users on your React-Native app](https://medium.com/@alexmngn/the-essential-boilerplate-to-authenticate-users-on-your-react-native-app-f7a8e0e04a42#.9ghi2cd0p)
 * [Goodbye ../../../ Removing relative paths when importing](http://davidboyne.co.uk/2016/04/29/react-webpack-gem.html)
 * [Testing React Native and Redux](https://blog.hellojs.org/testing-react-native-and-redux-e5a71b99e178)
 * [Testing React Native with the New Jest - Part 1](https://blog.callstack.io/unit-testing-react-native-with-the-new-jest-i-snapshots-come-into-play-68ba19b1b9fe)
