@@ -20,4 +20,7 @@
 * [Unit Testing with Jest](https://facebook.github.io/react-native/docs/testing.html)
 - [React Native at Walmart Labs](https://medium.com/walmartlabs/react-native-at-walmartlabs-cdd140589560#.tkfs3hktj) - Some nice notes on the full RN test suite at Walmart.
 
+## Animations
+
+- [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/)
 
