@@ -28,4 +28,8 @@
 
 * [Understanding React Native Flexbox Layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.wo4v5rvrg) 
 
+## Designing Cross Platform
+
+* [A Tale of Two Platforms: Designing for Both Android and iOS](https://webdesign.tutsplus.com/articles/a-tale-of-two-platforms-designing-for-both-android-and-ios--cms-23616)
+
 
