@@ -32,4 +32,8 @@
 
 * [A Tale of Two Platforms: Designing for Both Android and iOS](https://webdesign.tutsplus.com/articles/a-tale-of-two-platforms-designing-for-both-android-and-ios--cms-23616)
 
+## Publishing to Google Play
+
+* [Signed APK (Andriod)](https://facebook.github.io/react-native/docs/signed-apk-android.html)
+
 
