@@ -12,7 +12,6 @@
 * [So You Want To Dynamically Update Your React Native App](https://medium.com/@clayallsopp/so-you-want-to-dynamically-update-your-react-native-app-d1d88bf11ede)
 * [5 Open Source React Native Projects To Learn From](https://medium.com/@bilalbudhani/5-open-source-react-native-projects-to-learn-from-fb7e5cfe29f2#.i8tor0vci)
 * [FrontEnd Masters: React Native (feat. Redux)](https://frontendmasters.com/courses/react-native/)
-* [Understanding React Native Flexbox Layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.wo4v5rvrg) 
 
 ## Testing React Native
 
@@ -24,4 +23,9 @@
 ## Animations
 
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/)
+
+## Layout
+
+* [Understanding React Native Flexbox Layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.wo4v5rvrg) 
+
 
