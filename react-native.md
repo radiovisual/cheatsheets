@@ -40,4 +40,8 @@
 * [Code Push](https://microsoft.github.io/code-push/) by Microsoft
 * [So You Want To Dynamically Update Your React Native App](https://medium.com/@clayallsopp/so-you-want-to-dynamically-update-your-react-native-app-d1d88bf11ede)
 
+## Tips and Tricks
+
+* [Handling the Keyboard in React Native](http://blog.arjun.io/react-native/mobile/cross-platform/2016/04/01/handling-the-keyboard-in-react-native.html)
+
 
