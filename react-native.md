@@ -22,6 +22,7 @@
 ## Animations
 
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/)
+- [React Native Animations Revisited Part 1](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.xslc1bfy2)
 
 ## Layout
 
