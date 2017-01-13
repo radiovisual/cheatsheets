@@ -59,6 +59,6 @@
   }
 ```
 - Run `react-native link` to link your font assets. 
-- That's it! Now you can start using the fonts by name inside your project.
+- That's it! Now you can start using the fonts by [PostScript name](http://stackoverflow.com/a/41636431/3960969) inside your project.
  
 
