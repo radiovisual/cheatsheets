@@ -38,6 +38,7 @@
 
 ## Live Code Updates
 
+* [ReactNative: Zero to DevOps](https://www.youtube.com/watch?v=lfqZ8Uy2p3U&feature=youtu.be) Code Push, Analytics and Crash Reporting Setup
 * [Code Push](https://microsoft.github.io/code-push/) by Microsoft
 * [So You Want To Dynamically Update Your React Native App](https://medium.com/@clayallsopp/so-you-want-to-dynamically-update-your-react-native-app-d1d88bf11ede)
 
