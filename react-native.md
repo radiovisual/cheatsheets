@@ -46,4 +46,19 @@
 
 * [Handling the Keyboard in React Native](http://blog.arjun.io/react-native/mobile/cross-platform/2016/04/01/handling-the-keyboard-in-react-native.html)
 
+## Adding Custom Fonts
+
+- Create a `src/fonts` directory.
+- Move your custom fonts into this directory.
+- Add an `"rnpm` entry into your `package.json` file:
+```
+"rnpm": {
+  "assets": [
+    "src/fonts"
+    ]
+  }
+```
+- Run `react-native link` to link your font assets. 
+- That's it! Now you can start using the fonts by name inside your project.
+ 
 
