@@ -50,7 +50,7 @@
 
 - Create a `src/fonts` directory.
 - Move your custom fonts into this directory.
-- Add an `"rnpm` entry into your `package.json` file:
+- Add an `"rnpm"` entry into your `package.json` file:
 ```
 "rnpm": {
   "assets": [
