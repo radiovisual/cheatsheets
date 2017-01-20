@@ -120,5 +120,5 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ### JavaScript Books
 
--[Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/) by Dr. Axel Rauschmayer
+- [Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/) by Dr. Axel Rauschmayer
 
