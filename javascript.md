@@ -63,7 +63,6 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ## Noteworthy Articles
 
-- [Async and Await](https://zeit.co/blog/async-and-await)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
@@ -71,30 +70,24 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [JavaScript’s Apply, Call, and Bind Methods are Essential for JavaScript Professionals](http://javascriptissexy.com/javascript-apply-call-and-bind-methods-are-essential-for-javascript-professionals/)
 - [Common Misconceptions About Inheritance in JavaScript](https://medium.com/javascript-scene/common-misconceptions-about-inheritance-in-javascript-d5d9bab29b0a)
 - [The Dao of Immutability](https://medium.com/javascript-scene/the-dao-of-immutability-9f91a70c88cd)
-- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2)
 - [Fluent JavaScript – Three Different Kinds Of Prototypal OO](http://ericleads.com/2013/02/fluent-javascript-three-different-kinds-of-prototypal-oo/)
 - [Polymorphism That Just Works](http://tobyho.com/2015/06/23/polymorphism-that-just-works/)
 - [We have a problem with promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 - [Anonymous Functions, Assigned To References, Show Up Well In JavaScript Stack Traces](http://www.bennadel.com/blog/2836-anonymous-functions-assigned-to-references-show-up-well-in-javascript-stack-traces.htm?&_=0.32385098887607455)
 - [First Steps in Setting Up Travis For Your Javascript Projects](http://orizens.com/wp/topics/first-steps-in-setting-up-travis-ci-to-your-javascript-project/)
-- [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
 - [Making a Game API Server Using Node.js: Revisited](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
 - [Writing a Non-blocking JavaScript Quicksort](http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/)
 - [John Resig Annotates the original jQuery source](http://genius.it/5088420/ejohn.org/files/jquery-original.html)
-- [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html)
 - [Learn JavaScript Essentials (for all skill levels)](https://medium.com/javascript-scene/learn-javascript-b631a4af11f2) One clear path to JavaScript mastery
 - [The Two Pillars of JavaScript Part 1: Prototypal OO](https://medium.com/javascript-scene/the-two-pillars-of-javascript-ee6f3281e7f3)
 - [The Two Pillars of JavaScript Part 2: Functional Programming](https://medium.com/javascript-scene/the-two-pillars-of-javascript-pt-2-functional-programming-a63aa53a41a4)
 - [JavaScript Objects](http://davidwalsh.name/javascript-objects) An excellent explanation of inheritance in JavaScript by Kyle Simpson
-- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough
 - [Unapply attack](http://glebbahmutov.com/blog/unapply-attack/) Make your JS apps more secure by freezing builtins.
 - [JavaScript Application Architecture on the Road to 2015](https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b) Addy Osmani
 - [Modularity](http://jlongster.com/Modularity) A pragmatic take on the tiny modules vs batteries included approach
 - [Reactive MVC and the Virtual DOM](http://futurice.com/blog/reactive-mvc-and-the-virtual-dom) Great read, even if you're not a React user.
 - [Introduction to Reactive Programming](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
-- [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
 - [Typed JavaScript](http://www.2ality.com/2014/10/typed-javascript.html) Excellent post about the state of typed JavaScript by Axel Rauschmayer
-- [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
 - [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) A guide for people building JavaScript client SDKs
 - [Advanced Performance Audits with DevTools](http://www.paulirish.com/2015/advanced-performance-audits-with-devtools/) In-depth perf case studies with Paul Irish
 - [JavaScript Module Pattern: In-Depth](http://www.adequatelygood.com/JavaScript-Module-Pattern-In-Depth.html) Written before ES6 modules. Still good info though.
@@ -102,6 +95,14 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
 - [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.va902pu9y)
 
+### ES6 and Beyond
+
+- [ES6 Modules: The Final Syntax](http://www.2ality.com/2014/09/es6-modules-final.html) by @rauschma #AMDisDead
+- [ES6 Generators](http://davidwalsh.name/es6-generators) A series of blog posts by Kyle Simpson
+- [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2) A Babel config walkthrough
+- [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html)
+- [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
+- [Async and Await](https://zeit.co/blog/async-and-await)
 
 ### General Syntax
 
