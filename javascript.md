@@ -122,3 +122,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 - [Exploring ES6: Upgrade to the next version of JavaScript](http://exploringjs.com/) by Dr. Axel Rauschmayer
 
+### Coding Challenges and Communities
+
+- [codewars.com](https://www.codewars.com/)
+- [codility.com](https://codility.com/)
+
