@@ -36,6 +36,7 @@
 
 ### React Testing
 
+- [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
 - [A Step-by-Step TDD Approach on Testing React Components Using Enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
 
 ### Case Studies
