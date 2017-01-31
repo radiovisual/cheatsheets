@@ -19,6 +19,11 @@ Pull Requests Welcome!
 
 - [Our CSS Best Practices are Killing Us](https://vimeo.com/72759139) by Nicole Sullivan
 
+## Tools
+
+- [Parker](https://github.com/katiefenn/parker) Stylesheet analysis tool
+  - [Improving your CSS with Parker](https://csswizardry.com/2016/06/improving-your-css-with-parker/)
+
 ## CSS Wizards
 
 The guys to follow when it comes to all things BEM.
