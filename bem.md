@@ -7,6 +7,10 @@ created, I am new to the methodology, so I am using this cheatsheet as my collec
 
 Pull Requests Welcome!
 
+## Why BEM?
+
+> Replace "can you build this?" with "can you maintain this without losing your minds?" ~ [@necolas](https://twitter.com/necolas/status/360170108028600320?ref_src=twsrc%5Etfw)
+
 ## Learning BEM
 
 - [Get BEM](http://getbem.com/introduction/)
