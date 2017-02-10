@@ -63,6 +63,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ## Noteworthy Articles
 
+- [Javascript Start-up Performance](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.2ip8c5f61)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
 - [JavaScript Objects in Detail](http://javascriptissexy.com/javascript-objects-in-detail/)
 - [Understand JavaScript’s “this” With Clarity, and Master It](http://javascriptissexy.com/understand-javascripts-this-with-clarity-and-master-it/)
