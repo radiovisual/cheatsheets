@@ -65,6 +65,7 @@
 
 ### General React Articles
 
+- [What if React was Really Only the V in MVC?](https://medium.com/javascript-inside/what-if-react-was-really-only-the-v-in-mvc-5854fd6f601c#.95u7g16ue)
 - [60 FPS on the Mobile Web](http://engineering.flipboard.com/2015/02/mobile-web/)
 - [Containers Are Dead. Long Live Observable Combinators](https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.pzszt7add)
 - [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.nhb0jdjl0)
