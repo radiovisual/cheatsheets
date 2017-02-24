@@ -19,6 +19,7 @@ Pull Requests Welcome!
 - [How to Scale and Maintain Legacy CSS with Sass and SMACSS](https://webuild.envato.com/blog/how-to-scale-and-maintain-legacy-css-with-sass-and-smacss/)
 - [Building a modular My Health Skills with BEM and Sass](http://bluegg.co.uk/blog/building-my-health-skills-part-3)
 - [BEM 101](https://css-tricks.com/bem-101/)
+- [About HTML semantics and front-end architecture](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/) by Nicolas Gallager
 
 ## Videos
 
