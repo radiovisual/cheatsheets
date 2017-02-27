@@ -62,7 +62,7 @@ States are prefixed with `is-` and are written in camel case. They are also alwa
 // Components are PascalCase
 .ComponentName {}
 
-// Descendents are cascalCase with single dash
+// Descendents are camelCase with single dash
 .ComponentName-descendentName {}
 
 // Modifiers are camelCase with double dash
