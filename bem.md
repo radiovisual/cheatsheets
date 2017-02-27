@@ -65,7 +65,7 @@ States are prefixed with `is-` and are written in camel case. They are also alwa
 // Descendents are cascalCase with single dash
 .ComponentName-descendentName {}
 
-// Modifiers are cascalCase with double dash
+// Modifiers are camelCase with double dash
 // Modifiers are only applied to a Component, not a descendent
 .ComponentName--modifierName {}
 
@@ -74,6 +74,8 @@ States are prefixed with `is-` and are written in camel case. They are also alwa
 .ComponentName.is-stateName {}
 .ComponentName-descendentName.is-stateName {}
 
+// Utilities have the `u-` prefix and are camelCase:
+.u-clearFix {}
 ```
 
 
