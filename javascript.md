@@ -104,6 +104,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [What do ES6 modules export?](http://www.2ality.com/2015/07/es6-module-exports.html)
 - [Variables and scoping in ECMAScript 6](http://www.2ality.com/2015/02/es6-scoping.html)
 - [Async and Await](https://zeit.co/blog/async-and-await)
+- [Practical ES6](https://github.com/mjavascript/practical-es6)
 
 ### General Syntax
 
