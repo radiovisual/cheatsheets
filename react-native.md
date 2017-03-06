@@ -26,7 +26,8 @@
 
 ## Layout
 
-* [Understanding React Native Flexbox Layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.wo4v5rvrg) 
+* [Understanding React Native Flexbox Layout](https://medium.com/the-react-native-log/understanding-react-native-flexbox-layout-7a528200afd4#.wo4v5rvrg)
+* [A Mini Course on React Native Flexbox](https://medium.com/the-react-native-log/a-mini-course-on-react-native-flexbox-2832a1ccc6#.dour9qjai)
 
 ## Designing Cross Platform
 
