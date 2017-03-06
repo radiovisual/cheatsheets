@@ -1,4 +1,4 @@
-#Developer Cheatsheets
+# Developer Cheatsheets
 
 A collection of developer-driven cheatsheets for quick reference. For now these cheatsheets are presented as Markdown files, but eventually these cheatsheets will be turned into an interactive web resource.
 
@@ -15,6 +15,7 @@ Browse to the individual cheatsheets:
 - **[Swift](https://github.com/radiovisual/cheatsheets/blob/master/swift.md)** Cover the Swift language for iOS development
 - **[React](https://github.com/radiovisual/cheatsheets/blob/master/react.md)** Explore the react.js framework
 - **[Redux](https://github.com/radiovisual/cheatsheets/blob/master/redux.md)** Learn Redux
+- **[Jest](https://github.com/radiovisual/cheatsheets/blob/master/jest.md)** Learn Jest
 - **[React Native](https://github.com/radiovisual/cheatsheets/blob/master/react-native.md)** Explore the react-native framework
 - **[iOS Development](https://github.com/radiovisual/cheatsheets/blob/master/ios.md)** Explore the wonders of iOS / Mac OS development
 - **[Javascript Animation](https://github.com/radiovisual/cheatsheets/blob/master/javascript-animation.md)** Quick reference on some common js animation techniques
@@ -27,12 +28,12 @@ Browse to the individual cheatsheets:
 - **[Django](https://github.com/radiovisual/cheatsheets/blob/master/django.md)** Django quick-start and user reference
 - **[Mac Shortcuts](https://github.com/radiovisual/cheatsheets/blob/master/mac-shortcuts.md)** Useful shortcuts for mac users
 
-###In-Depth Study
+### In-Depth Study
 
 - **[Software Developers "Must-Read" List](https://github.com/radiovisual/cheatsheets/blob/master/must-read.md)**
 
 
-###Blogs to Follow (JavaScript)
+### Blogs to Follow (JavaScript)
 
 - [maxogden.com](http://maxogden.com/)
 - [2ality.com/](http://www.2ality.com/)
