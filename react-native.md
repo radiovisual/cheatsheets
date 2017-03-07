@@ -23,6 +23,8 @@
 
 - [React-native Animated API with PanResponder](http://browniefed.com/blog/react-native-animated-api-with-panresponder/)
 - [React Native Animations Revisited Part 1](https://blog.callstack.io/react-native-animations-revisited-part-i-783143d4884#.xslc1bfy2)
+- [Toolbar Animation in React Native (1/2)](https://medium.com/react-native-motion/toolbar-animation-in-react-native-fe89c4f8e4cf#.pk3ngfdtf)
+- [Toolbar Animation in React Native (2/2)](https://medium.com/react-native-motion/toolbar-animation-in-react-native-2-2-f04ac45c7c11#.vsdhnhrnr)
 
 ## Layout
 
