@@ -148,3 +148,4 @@ NSError *jsonError;
 ### Articles Worth Exploring
 
 - [Building the Build System - Part 1 - Abandoning the Build Panel](http://robnapier.net/build-system-1-build-panel)
+- [33 iOS Open Source Libraries That Will Dominate 2017](https://medium.com/app-coder-io/33-ios-open-source-libraries-that-will-dominate-2017-4762cf3ce449#.93v5ay3x3)
