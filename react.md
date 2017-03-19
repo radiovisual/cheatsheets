@@ -70,6 +70,7 @@
 - [Containers Are Dead. Long Live Observable Combinators](https://medium.com/@milankinen/containers-are-dead-long-live-observable-combinators-2cb0c1f06c96#.pzszt7add)
 - [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.nhb0jdjl0)
 - [Functional setState is the Future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.oun4ee4vp)
+- [setState Gate](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82#.dnvhmj1ie)
 
 ### React Animation
 
