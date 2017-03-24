@@ -22,3 +22,4 @@
 # Bonus Round
 
 - Video: [See the data flowing through your app](https://www.youtube.com/watch?v=R-GzJgEccEQ)
+- Interactive Tests: [Functional Programming in Javascript](http://reactivex.io/learnrx/)
