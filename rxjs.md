@@ -13,6 +13,12 @@
 - Video: [Netflix JavaScript Talks - RxJS Version 5](https://www.youtube.com/watch?v=COviCoUtwx4)
 - Video: [Ben Lesh - Async Redux Actions With RxJS](https://www.youtube.com/watch?v=sF5-V-Szo0c)
 
+# Hot vs Cold Observables
+
+> Once you start getting the hang of programming with Rx*, it is absolutely required to understand the concept of Cold vs Hot Observables. If you ignore this, it will come back and bite you brutally. You have been warned. ~ Andre Staltz 
+
+- [Cold vs. Hot Observables](https://github.com/Reactive-Extensions/RxJS/blob/master/doc/gettingstarted/creating.md#cold-vs-hot-observables)
+
 # Bonus Round
 
 - Video: [See the data flowing through your app](https://www.youtube.com/watch?v=R-GzJgEccEQ)
