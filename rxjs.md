@@ -1,6 +1,6 @@
 # RxJS
 
-> It's time to start bending your mind around Observable streams!
+> It's time to start bending your mind around Observables!
 
 # Getting Started
 
