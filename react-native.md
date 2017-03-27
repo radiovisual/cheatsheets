@@ -70,7 +70,9 @@
 ```
 - Run `react-native link` to link your font assets. 
 - That's it! Now you can start using the fonts by [PostScript name](http://stackoverflow.com/a/41636431/3960969) inside your project.
- 
+
+See also: [How to add and remove custom fonts in React Native](https://medium.com/@danielskripnik/how-to-add-and-remove-custom-fonts-in-react-native-b2830084b0e4#.9451mpi16)
+
 ## Making Native Modules
 
 - [How to Create a React Native iOS Native Module](http://blog.tylerbuchea.com/how-to-create-a-react-native-ios-native-module/)
