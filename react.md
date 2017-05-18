@@ -38,6 +38,7 @@
 
 - [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
 - [A Step-by-Step TDD Approach on Testing React Components Using Enzyme](http://thereignn.ghost.io/a-step-by-step-tdd-approach-on-testing-react-components-using-enzyme/)
+- [React Full-stack Test Automation with Saucelabs and Circle CI](https://medium.com/@AdamRNeary/react-full-stack-test-automation-with-saucelabs-and-circle-ci-40e819581818)
 
 ### Case Studies
 
