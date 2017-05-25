@@ -6,6 +6,11 @@
 - `$ chmod u+x myscript.js` make your javascript file executable
 - `#!/usr/bin/env node` use this shebang at the top of all node files you want to be executable
 
+#### Microservices
+- [scaling-node-js-applications-with-microservices](https://skillsmatter.com/skillscasts/6755-scaling-node-js-applications-with-microservices)
+- [microservices-made-easy-with-node-js](https://medium.com/@dashersw/microservices-made-easy-with-node-js-f41bb2be2d3c)
+- [cote: A Node.js library for building zero-configuration microservices.](https://github.com/dashersw/cote)
+
 #### Projects
 
 - [Making a Game API Server in Node (Revisited)](http://blog.couchbase.com/making-a-game-api-server-using-nodejs-revisited)
