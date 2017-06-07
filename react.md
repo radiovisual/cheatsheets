@@ -80,3 +80,7 @@
 ### React Code Samples
 
 - [Reusable interactive components](https://plnkr.co/edit/P4nhhumrMt9Znc7UDWj6?p=preview)
+
+### Webpack
+
+- [Code Splitting with Webpack on the Component Level](https://medium.com/@sejoker/code-splitting-with-webpack-on-the-component-level-ac50748d80de)
