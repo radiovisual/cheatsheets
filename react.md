@@ -34,6 +34,11 @@
 * [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
 * [Performance Optimisations for React Applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.lbc1hnd2d)
 
+### PWA in React
+
+- [Progressive Web Apps with React.js: Part 1 -- Introduction](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
+- [Progressive Web Apps with React.js: Part 2 -- Page Load Performance](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2)
+
 ### React Testing
 
 - [How to test React components using Karma and webpack](http://nicolasgallagher.com/how-to-test-react-components-karma-webpack/)
