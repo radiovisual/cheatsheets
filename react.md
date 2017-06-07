@@ -90,3 +90,4 @@
 ### Webpack
 
 - [Code Splitting with Webpack on the Component Level](https://medium.com/@sejoker/code-splitting-with-webpack-on-the-component-level-ac50748d80de)
+- [JS Module Bundlers, Totally Tooling Tips](https://www.youtube.com/watch?v=OhPUaEuEaXk)
