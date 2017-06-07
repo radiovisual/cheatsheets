@@ -38,6 +38,7 @@
 
 - [Progressive Web Apps with React.js: Part 1 -- Introduction](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-i-introduction-50679aef2b12)
 - [Progressive Web Apps with React.js: Part 2 -- Page Load Performance](https://medium.com/@addyosmani/progressive-web-apps-with-react-js-part-2-page-load-performance-33b932d97cf2)
+- [Housing Go - Behind the Screens](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454) Excellent PWA Case Study of the housing.com PWA
 
 ### React Testing
 
