@@ -65,6 +65,7 @@
 ### Books
 
 * [Learn JavaScript Universal App Development](https://leanpub.com/learn-javascript-react-nodejs-es6/)
+* [Pro React](http://www.pro-react.com/)
 
 ### React Components
 
