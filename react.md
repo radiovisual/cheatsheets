@@ -33,6 +33,7 @@
 * [The React.js Way: Flux Architecture with Immutable.js](https://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/)
 * [How to Write a Google Maps React Component](https://www.fullstackreact.com/articles/how-to-write-a-google-maps-react-component/)
 * [Performance Optimisations for React Applications](https://medium.com/@alexandereardon/performance-optimisations-for-react-applications-b453c597b191#.lbc1hnd2d)
+* [Building an Authentication Flow with React Navigation](https://medium.com/the-react-native-log/building-an-authentication-flow-with-react-navigation-fb5de2203b5c)
 
 ### PWA in React
 
