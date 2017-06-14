@@ -96,3 +96,7 @@
 - [Code Splitting with Webpack on the Component Level](https://medium.com/@sejoker/code-splitting-with-webpack-on-the-component-level-ac50748d80de)
 - [JS Module Bundlers, Totally Tooling Tips](https://www.youtube.com/watch?v=OhPUaEuEaXk)
 - [Code-splitting your way to better perf with Webpack in Totally Tooling Tips](https://www.youtube.com/watch?v=QH94CXVv3UE)
+
+### React and Electron
+
+- [From React to an Electron App Ready for Production](https://medium.com/@kitze/%EF%B8%8F-from-react-to-an-electron-app-ready-for-production-a0468ecb1da3)
