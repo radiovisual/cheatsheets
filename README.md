@@ -27,6 +27,7 @@ Browse to the individual cheatsheets:
 - **[Computer Vision](https://github.com/radiovisual/cheatsheets/blob/master/computer-vision.md)** Learn to program Computer Vision
 - **[Django](https://github.com/radiovisual/cheatsheets/blob/master/django.md)** Django quick-start and user reference
 - **[Mac Shortcuts](https://github.com/radiovisual/cheatsheets/blob/master/mac-shortcuts.md)** Useful shortcuts for mac users
+- **[Webpack](https://github.com/radiovisual/cheatsheets/blob/master/webpack.md)** Get you some webpack
 
 ### In-Depth Study
 
