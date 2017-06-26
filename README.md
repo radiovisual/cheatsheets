@@ -28,6 +28,7 @@ Browse to the individual cheatsheets:
 - **[Django](https://github.com/radiovisual/cheatsheets/blob/master/django.md)** Django quick-start and user reference
 - **[Mac Shortcuts](https://github.com/radiovisual/cheatsheets/blob/master/mac-shortcuts.md)** Useful shortcuts for mac users
 - **[Webpack](https://github.com/radiovisual/cheatsheets/blob/master/webpack.md)** Get you some webpack
+- **[Machine Learning](https://github.com/radiovisual/cheatsheets/blob/master/machine-learning.md)** Get Started in Machine Learning
 
 ### In-Depth Study
 
