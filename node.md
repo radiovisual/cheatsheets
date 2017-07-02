@@ -1,10 +1,14 @@
-#Node.js Cheatsheet
+# Node.js Cheatsheet
 
 #### Quicklist
 
 - `$ node -v` see what version of node you are using
 - `$ chmod u+x myscript.js` make your javascript file executable
 - `#!/usr/bin/env node` use this shebang at the top of all node files you want to be executable
+
+#### Noteworthy Articles
+
+- [How I Built an App with 500,000 USers in 5 Days on a $100 Server](https://medium.com/unboxd/how-i-built-an-app-with-500-000-users-in-5-days-on-a-100-server-77deeb238e83)
 
 #### Microservices
 
