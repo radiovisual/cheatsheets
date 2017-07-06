@@ -84,3 +84,11 @@ $ zip -er [archive] [folder]
 ```
 ln -s /path/to/original /path/to/symlink
 ```
+
+### Get the size of a directory
+
+The `du` command will output the size of the directory in kb
+
+```
+du -s directory
+```
