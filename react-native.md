@@ -82,3 +82,7 @@ See also: [How to add and remove custom fonts in React Native](https://medium.co
 ## Offline Workflows
 
 - [Your React Native Offline Toolbelt](https://blog.callstack.io/your-react-native-offline-tool-belt-795abd5f0183)
+
+## UI How-To's
+
+- [Create a YouTube Video Page with Animated Video Drag to Corner in React Native](https://codedaily.io/tutorials/10/Create-a-Youtube-Video-Page-with-Animated-Video-Drag-to-Corner-in-React-Native)
