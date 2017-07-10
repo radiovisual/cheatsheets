@@ -82,6 +82,7 @@
 - [React.js pure render performance anti-pattern](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f#.nhb0jdjl0)
 - [Functional setState is the Future of React](https://medium.freecodecamp.com/functional-setstate-is-the-future-of-react-374f30401b6b#.oun4ee4vp)
 - [setState Gate](https://medium.com/javascript-scene/setstate-gate-abc10a9b2d82#.dnvhmj1ie)
+- [Combining React with socket.io for Realtime Goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
 
 ### React Animation
 
