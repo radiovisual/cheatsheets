@@ -97,7 +97,8 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 - [promise-cookbook](https://github.com/mattdesl/promise-cookbook)
 - [Binary in Javascript](http://danthedev.com/2015/07/25/binary-in-javascript/)
 - [7 Surprising Things I Learned Writing a Fibonacci Generator in JavaScript](https://medium.com/javascript-scene/7-surprising-things-i-learned-writing-a-fibonacci-generator-4886a5c87710#.va902pu9y)
-- [Even with async/await You Probably Still Need Promises](https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161#.j278bxsqc) 
+- [Even with async/await You Probably Still Need Promises](https://medium.com/@bluepnume/even-with-async-await-you-probably-still-need-promises-9b259854c161#.j278bxsqc)
+- [All You Need to Know About Decorators](https://hackernoon.com/all-you-need-to-know-about-decorators-a-case-study-4a7e776b22a6)
 
 ### ES6 and Beyond
 
