@@ -3,8 +3,8 @@
 
 ## Standards
 
-- [ECMA-262, 6th Edition (ES6)](http://www.ecma-international.org/ecma-262/6.0/)
-- [ECMA-262, 8th edition (ES8)](https://www.ecma-international.org/ecma-262/8.0/index.html)
+- [ECMA-262, 6th Edition (ES6)](http://www.ecma-international.org/ecma-262/6.0/) Released June 2015
+- [ECMA-262, 8th edition (ES8)](https://www.ecma-international.org/ecma-262/8.0/index.html) Released June 2017
 
 
 ## Javascript Anti-Patterns
