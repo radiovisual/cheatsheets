@@ -7,7 +7,8 @@
 * [An opinionated guide to React.js best practices and conventions](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [Easily testing React components with react-test-tree](https://medium.com/qubit-engineering/easily-testing-react-components-with-react-test-tree-f9e1668b1c2d)
 * [Tips to optimise rendering of a set of elements in React](https://medium.com/@lavrton/how-to-optimise-rendering-of-a-set-of-elements-in-react-ad01f5b161ae#.z3j4z35aj)
-
+* [Use a Render Prop!](https://cdb.reacttraining.com/use-a-render-prop-50de598f11ce)
+* [Introducing Redux Offline](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 
 ### Learning React
 
