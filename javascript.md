@@ -65,6 +65,7 @@ Excerpt from [Learning JavaScript Design Patterns](http://addyosmani.com/resourc
 
 ## Noteworthy Articles
 
+- [33 Concepts Every JavaScript Developer Should Know ](https://github.com/leonardomso/33-js-concepts/blob/master/README.md)
 - [JavaScript: The Core _2nd Edition_](http://dmitrysoshnikov.com/ecmascript/javascript-the-core-2nd-edition/)
 - [Javascript Start-up Performance](https://medium.com/@addyosmani/javascript-start-up-performance-69200f43b201#.2ip8c5f61)
 - [Understand JavaScript Closures With Ease](http://javascriptissexy.com/understand-javascript-closures-with-ease/)
